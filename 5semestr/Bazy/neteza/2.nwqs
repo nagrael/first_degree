@@ -1,0 +1,31 @@
+<QuerySet>
+  <Query IsView="False" IsSP="False">
+    <SQL>SELECT count(*) FROM ADMIN.PAYMENTREPORTDETAIL_REPORTID2</SQL>
+    <Name>Tab 1</Name>
+  </Query>
+  <Query IsView="False" IsSP="False">
+    <SQL>SELECT DATASLICEID, COUNT(DATASLICEID) AS "ROWS"
+FROM DB.ADMIN.PAYMENTREPORT_GENDER
+GROUP BY DATASLICEID
+ORDER BY 1</SQL>
+    <Name>Tab 2</Name>
+  </Query>
+  <Query IsView="False" IsSP="False">
+    <SQL>SELECT GENDER,
+FROM U_GORSKI.PAYMENTREPORT_GENDER
+GROUP BY GENDER</SQL>
+    <Name>Tab 3</Name>
+  </Query>
+  <Query IsView="False" IsSP="False">
+    <SQL>SELECT AGE, AVG(SALARY)
+FROM U_GORSKI.PAYMENTREPORT_GENDER
+GROUP BY AGE</SQL>
+    <Name>Tab 4</Name>
+  </Query>
+  <Query IsView="False" IsSP="False">
+    <SQL>SELECT BONUSCODE, sum(BONUS)
+FROM ADMIN.PAYMENTREPORTDETAIL_ALL2_REPORTID2
+GROUP BY BONUSCODE</SQL>
+    <Name>Tab 5</Name>
+  </Query>
+</QuerySet>

@@ -1,0 +1,1862 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="2fe26fe7-ea16-4b86-af78-3f55c987595c" name="Default" comment="" />
+    <ignored path="baza.iws" />
+    <ignored path=".idea/workspace.xml" />
+    <ignored path=".idea/dataSources.local.xml" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ChangesViewManager" flattened_view="true" show_ignored="false" />
+  <component name="CoverageDataManager">
+    <SUITE FILE_PATH="coverage/baza$generator.coverage" NAME="generator Coverage Results" MODIFIED="1453459086498" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/baza$a.coverage" NAME="a Coverage Results" MODIFIED="1453401384334" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/baza$main.coverage" NAME="main Coverage Results" MODIFIED="1453459083745" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/baza$triggers.coverage" NAME="triggers Coverage Results" MODIFIED="1453459685571" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+  </component>
+  <component name="CreatePatchCommitExecutor">
+    <option name="PATCH_PATH" value="" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
+  <component name="FavoritesManager">
+    <favorites_list name="baza" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="375">
+      <file leaf-file-name="main.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/main.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0">
+              <caret line="79" column="34" selection-start-line="79" selection-start-column="34" selection-end-line="79" selection-end-column="34" />
+              <folding>
+                <marker date="1453476457230" expanded="true" signature="228:253" placeholder="DROP TABLE R..." />
+                <marker date="1453476457230" expanded="true" signature="262:291" placeholder="DROP TABLE W..." />
+                <marker date="1453476457230" expanded="true" signature="300:331" placeholder="DROP TABLE S..." />
+                <marker date="1453476457230" expanded="true" signature="340:370" placeholder="DROP TABLE R..." />
+                <marker date="1453476457230" expanded="true" signature="379:396" placeholder="DROP TABLE O..." />
+                <marker date="1453476457230" expanded="true" signature="405:426" placeholder="DROP TABLE R..." />
+                <marker date="1453476457230" expanded="true" signature="435:455" placeholder="DROP TABLE U..." />
+                <marker date="1453476457230" expanded="true" signature="464:480" placeholder="DROP TABLE F..." />
+                <marker date="1453476457230" expanded="true" signature="489:509" placeholder="DROP TABLE W..." />
+                <marker date="1453476457230" expanded="true" signature="518:544" placeholder="DROP TABLE D..." />
+                <marker date="1453476457230" expanded="true" signature="553:575" placeholder="DROP TABLE K..." />
+                <marker date="1453476457230" expanded="true" signature="584:607" placeholder="DROP TABLE C..." />
+                <marker date="1453476457230" expanded="true" signature="614:630" placeholder="DROP TABLE F..." />
+                <marker date="1453476457230" expanded="true" signature="638:776" placeholder="CREATE TABLE..Firma..." />
+                <marker date="1453476457230" expanded="true" signature="811:1132" placeholder="CREATE TABLE..Uczestnik..." />
+                <marker date="1453476457230" expanded="true" signature="1166:1467" placeholder="CREATE TABLE..Konferencja..." />
+                <marker date="1453476457230" expanded="true" signature="1501:1788" placeholder="CREATE TABLE..Dni_Konferencji..." />
+                <marker date="1453476457230" expanded="true" signature="1823:1990" placeholder="CREATE TABLE..Cenny..." />
+                <marker date="1453476457230" expanded="true" signature="2023:2369" placeholder="CREATE TABLE..Warsztaty..." />
+                <marker date="1453476457230" expanded="true" signature="2403:2749" placeholder="CREATE TABLE..Rezerwacje..." />
+                <marker date="1453476457230" expanded="true" signature="2783:2979" placeholder="CREATE TABLE..Opłaty..." />
+                <marker date="1453476457230" expanded="true" signature="3012:3291" placeholder="CREATE TABLE..Rezerwacje..." />
+                <marker date="1453476457230" expanded="true" signature="3325:3479" placeholder="CREATE TABLE..Szczególy_rezerwacji..." />
+                <marker date="1453476457230" expanded="true" signature="3513:3672" placeholder="CREATE TABLE..Warsztat_uczestnik..." />
+                <marker date="1453476457230" expanded="true" signature="3706:3868" placeholder="CREATE TABLE..Szczegoly_rezerwacji..." />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="triggers.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/triggers.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0">
+              <caret line="61" column="47" selection-start-line="61" selection-start-column="47" selection-end-line="61" selection-end-column="47" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="generator.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/generator.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0">
+              <caret line="6" column="0" selection-start-line="6" selection-start-column="0" selection-end-line="6" selection-end-column="0" />
+              <folding>
+                <element signature="e#0#14#0" expanded="true" />
+                <marker date="1453459029670" expanded="true" signature="515:549" placeholder="INSERT INTO Firma..." />
+                <marker date="1453459029670" expanded="true" signature="1197:1227" placeholder="INSERT INTO Uczestnik..." />
+                <marker date="1453459029670" expanded="true" signature="1197:1245" placeholder="INSERT INTO Uczestnik..." />
+                <marker date="1453459029670" expanded="true" signature="2262:2312" placeholder="INSERT INTO Konferencja..." />
+                <marker date="1453459029670" expanded="true" signature="2650:2698" placeholder="INSERT INTO Dni_Konferencji..." />
+                <marker date="1453459029670" expanded="true" signature="2840:2890" placeholder="INSERT INTO Konferencja..." />
+                <marker date="1453459029670" expanded="true" signature="3228:3276" placeholder="INSERT INTO Dni_Konferencji..." />
+                <marker date="1453459029670" expanded="true" signature="3415:3465" placeholder="INSERT INTO Konferencja..." />
+                <marker date="1453459029670" expanded="true" signature="3803:3851" placeholder="INSERT INTO Dni_Konferencji..." />
+                <marker date="1453459029670" expanded="true" signature="3991:4041" placeholder="INSERT INTO Konferencja..." />
+                <marker date="1453459029670" expanded="true" signature="4379:4427" placeholder="INSERT INTO Dni_Konferencji..." />
+                <marker date="1453459029670" expanded="true" signature="4588:4641" placeholder="INSERT INTO Progi_Cenowe..." />
+                <marker date="1453459029670" expanded="true" signature="5182:5227" placeholder="INSERT INTO Warsztaty..." />
+                <marker date="1453459029670" expanded="true" signature="7263:7309" placeholder="INSERT INTO Rezerwacje..." />
+                <marker date="1453459029670" expanded="true" signature="7263:7398" placeholder="INSERT INTO Rezerwacje..." />
+                <marker date="1453459029670" expanded="true" signature="7451:7497" placeholder="INSERT INTO Rezerwacje..." />
+                <marker date="1453459029670" expanded="true" signature="7682:7729" placeholder="INSERT INTO Szczegoly_rezerwacji..." />
+                <marker date="1453459029670" expanded="true" signature="8061:8102" placeholder="INSERT INTO Rezerwacje_dni..." />
+                <marker date="1453459029670" expanded="true" signature="9223:9272" placeholder="INSERT INTO Rezerwacje_warsztat..." />
+                <marker date="1453459029670" expanded="true" signature="9521:9566" placeholder="INSERT INTO Warsztat_uczestnik..." />
+                <marker date="1453459029670" expanded="true" signature="10226:10275" placeholder="INSERT INTO Rezerwacje_warsztat..." />
+                <marker date="1453459029670" expanded="true" signature="10508:10553" placeholder="INSERT INTO Warsztat_uczestnik..." />
+                <marker date="1453459029670" expanded="true" signature="10739:10781" placeholder="INSERT INTO Opłaty..." />
+                <marker date="1453459029670" expanded="true" signature="10920:10968" placeholder="INSERT INTO Opłaty..." />
+                <marker date="1453459029670" expanded="true" signature="10987:11034" placeholder="INSERT INTO Opłaty..." />
+                <marker date="1453459029670" expanded="true" signature="11054:11105" placeholder="INSERT INTO Rezerwacje..." />
+                <marker date="1453459029670" expanded="true" signature="11124:11175" placeholder="INSERT INTO Rezerwacje..." />
+                <marker date="1453459029670" expanded="true" signature="11194:11248" placeholder="INSERT INTO Rezerwacje..." />
+                <marker date="1453459029670" expanded="true" signature="11268:11318" placeholder="INSERT INTO Rezerwacje_warsztat..." />
+                <marker date="1453459029670" expanded="true" signature="11337:11387" placeholder="INSERT INTO Rezerwacje_warsztat..." />
+                <marker date="1453459029670" expanded="true" signature="11406:11455" placeholder="INSERT INTO Rezerwacje_warsztat..." />
+                <marker date="1453459029670" expanded="true" signature="11489:11538" placeholder="SELECT IDUcz..Uczestnik..." />
+                <marker date="1453459029670" expanded="true" signature="11633:11688" placeholder="SELECT IDUcz..Uczestnik..." />
+                <marker date="1453459029670" expanded="true" signature="11778:11825" placeholder="INSERT INTO Szczegoly_rezerwacji..." />
+                <marker date="1453459029670" expanded="true" signature="11849:11896" placeholder="INSERT INTO Szczegoly_rezerwacji..." />
+                <marker date="1453459029670" expanded="true" signature="11927:11972" placeholder="INSERT INTO Szczegoly_rezerwacji..." />
+                <marker date="1453459029670" expanded="true" signature="12006:12051" placeholder="INSERT INTO Warsztat_uczestnik..." />
+                <marker date="1453459029670" expanded="true" signature="12075:12120" placeholder="INSERT INTO Warsztat_uczestnik..." />
+                <marker date="1453459029670" expanded="true" signature="12151:12194" placeholder="INSERT INTO Warsztat_uczestnik..." />
+                <marker date="1453459029670" expanded="true" signature="12218:12259" placeholder="INSERT INTO Rezerwacje_dni..." />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="a.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/a.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.13017751">
+              <caret line="5" column="12" selection-start-line="5" selection-start-column="12" selection-end-line="5" selection-end-column="12" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/a.py" />
+        <option value="$PROJECT_DIR$/generator.py" />
+        <option value="$PROJECT_DIR$/main.py" />
+        <option value="$PROJECT_DIR$/triggers.py" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" />
+  <component name="JsBuildToolPackageJson" detection-done="true" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="x" value="-8" />
+    <option name="width" value="1924" />
+    <option name="height" value="1038" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="false">
+    <OptionsSetting value="true" id="Add" />
+    <OptionsSetting value="true" id="Remove" />
+    <OptionsSetting value="true" id="Checkout" />
+    <OptionsSetting value="true" id="Update" />
+    <OptionsSetting value="true" id="Status" />
+    <OptionsSetting value="true" id="Edit" />
+    <ConfirmationsSetting value="0" id="Add" />
+    <ConfirmationsSetting value="0" id="Remove" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+      <manualOrder />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
+    <property name="settings.editor.splitter.proportion" value="0.2" />
+    <property name="full.screen.before.presentation.mode" value="false" />
+  </component>
+  <component name="RunManager" selected="Python.triggers">
+    <configuration default="false" name="main" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="baza" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/main.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <method />
+    </configuration>
+    <configuration default="false" name="generator" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="baza" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/generator.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <method />
+    </configuration>
+    <configuration default="false" name="a" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="baza" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/a.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <method />
+    </configuration>
+    <configuration default="false" name="triggers" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="baza" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/triggers.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <method />
+    </configuration>
+    <configuration default="true" type="DjangoTestsConfigurationType" factoryName="Django tests">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="baza" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="TARGET" value="" />
+      <option name="SETTINGS_FILE" value="" />
+      <option name="CUSTOM_SETTINGS" value="false" />
+      <option name="USE_OPTIONS" value="false" />
+      <option name="OPTIONS" value="" />
+      <method />
+    </configuration>
+    <configuration default="true" type="JavascriptDebugType" factoryName="JavaScript Debug">
+      <method />
+    </configuration>
+    <configuration default="true" type="PyBehaveRunConfigurationType" factoryName="Behave">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="baza" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="ADDITIONAL_ARGS" value="" />
+      <method />
+    </configuration>
+    <configuration default="true" type="PyLettuceRunConfigurationType" factoryName="Lettuce">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="baza" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="ADDITIONAL_ARGS" value="" />
+      <method />
+    </configuration>
+    <configuration default="true" type="PythonConfigurationType" factoryName="Python">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="baza" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <method />
+    </configuration>
+    <configuration default="true" type="js.build_tools.gulp" factoryName="Gulp.js">
+      <node-options />
+      <gulpfile />
+      <tasks />
+      <arguments />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="js.build_tools.npm" factoryName="npm">
+      <command value="run-script" />
+      <scripts />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="tests" factoryName="Attests">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="baza" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="CLASS_NAME" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="FOLDER_NAME" value="" />
+      <option name="TEST_TYPE" value="TEST_SCRIPT" />
+      <option name="PATTERN" value="" />
+      <option name="USE_PATTERN" value="false" />
+      <method />
+    </configuration>
+    <configuration default="true" type="tests" factoryName="Doctests">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="baza" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="CLASS_NAME" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="FOLDER_NAME" value="" />
+      <option name="TEST_TYPE" value="TEST_SCRIPT" />
+      <option name="PATTERN" value="" />
+      <option name="USE_PATTERN" value="false" />
+      <method />
+    </configuration>
+    <configuration default="true" type="tests" factoryName="Nosetests">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="baza" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="CLASS_NAME" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="FOLDER_NAME" value="" />
+      <option name="TEST_TYPE" value="TEST_SCRIPT" />
+      <option name="PATTERN" value="" />
+      <option name="USE_PATTERN" value="false" />
+      <option name="PARAMS" value="" />
+      <option name="USE_PARAM" value="false" />
+      <method />
+    </configuration>
+    <configuration default="true" type="tests" factoryName="Unittests">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="baza" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="CLASS_NAME" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="FOLDER_NAME" value="" />
+      <option name="TEST_TYPE" value="TEST_SCRIPT" />
+      <option name="PATTERN" value="" />
+      <option name="USE_PATTERN" value="false" />
+      <option name="PUREUNITTEST" value="true" />
+      <option name="PARAMS" value="" />
+      <option name="USE_PARAM" value="false" />
+      <method />
+    </configuration>
+    <configuration default="true" type="tests" factoryName="py.test">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="baza" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="CLASS_NAME" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="FOLDER_NAME" value="" />
+      <option name="TEST_TYPE" value="TEST_SCRIPT" />
+      <option name="PATTERN" value="" />
+      <option name="USE_PATTERN" value="false" />
+      <option name="testToRun" value="" />
+      <option name="keywords" value="" />
+      <option name="params" value="" />
+      <option name="USE_PARAM" value="false" />
+      <option name="USE_KEYWORD" value="false" />
+      <method />
+    </configuration>
+    <list size="4">
+      <item index="0" class="java.lang.String" itemvalue="Python.main" />
+      <item index="1" class="java.lang.String" itemvalue="Python.generator" />
+      <item index="2" class="java.lang.String" itemvalue="Python.a" />
+      <item index="3" class="java.lang.String" itemvalue="Python.triggers" />
+    </list>
+    <recent_temporary>
+      <list size="4">
+        <item index="0" class="java.lang.String" itemvalue="Python.triggers" />
+        <item index="1" class="java.lang.String" itemvalue="Python.generator" />
+        <item index="2" class="java.lang.String" itemvalue="Python.main" />
+        <item index="3" class="java.lang.String" itemvalue="Python.a" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false" />
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="2fe26fe7-ea16-4b86-af78-3f55c987595c" name="Default" comment="" />
+      <created>1452071816392</created>
+      <option name="number" value="Default" />
+      <updated>1452071816392</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="0" width="1924" height="1038" extended-state="0" />
+    <editor active="true" />
+    <layout>
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.27867097" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3295325" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="10" side_tool="true" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3295325" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3295325" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32839224" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+    </layout>
+    <layout-to-restore>
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3295325" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="10" side_tool="true" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3295325" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32839224" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3295325" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.27867097" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+    </layout-to-restore>
+  </component>
+  <component name="Vcs.Log.UiProperties">
+    <option name="RECENTLY_FILTERED_USER_GROUPS">
+      <collection />
+    </option>
+    <option name="RECENTLY_FILTERED_BRANCH_GROUPS">
+      <collection />
+    </option>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <option name="time" value="1" />
+    </breakpoint-manager>
+    <watches-manager />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/a.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="5" column="12" selection-start-line="5" selection-start-column="12" selection-end-line="5" selection-end-column="12" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/main.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="79" column="34" selection-start-line="79" selection-start-column="34" selection-end-line="79" selection-end-column="34" />
+          <folding>
+            <marker date="1453476457230" expanded="true" signature="228:253" placeholder="DROP TABLE R..." />
+            <marker date="1453476457230" expanded="true" signature="262:291" placeholder="DROP TABLE W..." />
+            <marker date="1453476457230" expanded="true" signature="300:331" placeholder="DROP TABLE S..." />
+            <marker date="1453476457230" expanded="true" signature="340:370" placeholder="DROP TABLE R..." />
+            <marker date="1453476457230" expanded="true" signature="379:396" placeholder="DROP TABLE O..." />
+            <marker date="1453476457230" expanded="true" signature="405:426" placeholder="DROP TABLE R..." />
+            <marker date="1453476457230" expanded="true" signature="435:455" placeholder="DROP TABLE U..." />
+            <marker date="1453476457230" expanded="true" signature="464:480" placeholder="DROP TABLE F..." />
+            <marker date="1453476457230" expanded="true" signature="489:509" placeholder="DROP TABLE W..." />
+            <marker date="1453476457230" expanded="true" signature="518:544" placeholder="DROP TABLE D..." />
+            <marker date="1453476457230" expanded="true" signature="553:575" placeholder="DROP TABLE K..." />
+            <marker date="1453476457230" expanded="true" signature="584:607" placeholder="DROP TABLE C..." />
+            <marker date="1453476457230" expanded="true" signature="614:630" placeholder="DROP TABLE F..." />
+            <marker date="1453476457230" expanded="true" signature="638:776" placeholder="CREATE TABLE..Firma..." />
+            <marker date="1453476457230" expanded="true" signature="811:1132" placeholder="CREATE TABLE..Uczestnik..." />
+            <marker date="1453476457230" expanded="true" signature="1166:1467" placeholder="CREATE TABLE..Konferencja..." />
+            <marker date="1453476457230" expanded="true" signature="1501:1788" placeholder="CREATE TABLE..Dni_Konferencji..." />
+            <marker date="1453476457230" expanded="true" signature="1823:1990" placeholder="CREATE TABLE..Cenny..." />
+            <marker date="1453476457230" expanded="true" signature="2023:2369" placeholder="CREATE TABLE..Warsztaty..." />
+            <marker date="1453476457230" expanded="true" signature="2403:2749" placeholder="CREATE TABLE..Rezerwacje..." />
+            <marker date="1453476457230" expanded="true" signature="2783:2979" placeholder="CREATE TABLE..Opłaty..." />
+            <marker date="1453476457230" expanded="true" signature="3012:3291" placeholder="CREATE TABLE..Rezerwacje..." />
+            <marker date="1453476457230" expanded="true" signature="3325:3479" placeholder="CREATE TABLE..Szczególy_rezerwacji..." />
+            <marker date="1453476457230" expanded="true" signature="3513:3672" placeholder="CREATE TABLE..Warsztat_uczestnik..." />
+            <marker date="1453476457230" expanded="true" signature="3706:3868" placeholder="CREATE TABLE..Szczegoly_rezerwacji..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/triggers.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="61" column="47" selection-start-line="61" selection-start-column="47" selection-end-line="61" selection-end-column="47" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/generator.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="e#0#14#0" expanded="true" />
+            <marker date="1453459029670" expanded="true" signature="515:549" placeholder="INSERT INTO Firma..." />
+            <marker date="1453459029670" expanded="true" signature="1197:1227" placeholder="INSERT INTO Uczestnik..." />
+            <marker date="1453459029670" expanded="true" signature="1197:1245" placeholder="INSERT INTO Uczestnik..." />
+            <marker date="1453459029670" expanded="true" signature="2262:2312" placeholder="INSERT INTO Konferencja..." />
+            <marker date="1453459029670" expanded="true" signature="2650:2698" placeholder="INSERT INTO Dni_Konferencji..." />
+            <marker date="1453459029670" expanded="true" signature="2840:2890" placeholder="INSERT INTO Konferencja..." />
+            <marker date="1453459029670" expanded="true" signature="3228:3276" placeholder="INSERT INTO Dni_Konferencji..." />
+            <marker date="1453459029670" expanded="true" signature="3415:3465" placeholder="INSERT INTO Konferencja..." />
+            <marker date="1453459029670" expanded="true" signature="3803:3851" placeholder="INSERT INTO Dni_Konferencji..." />
+            <marker date="1453459029670" expanded="true" signature="3991:4041" placeholder="INSERT INTO Konferencja..." />
+            <marker date="1453459029670" expanded="true" signature="4379:4427" placeholder="INSERT INTO Dni_Konferencji..." />
+            <marker date="1453459029670" expanded="true" signature="4588:4641" placeholder="INSERT INTO Progi_Cenowe..." />
+            <marker date="1453459029670" expanded="true" signature="5182:5227" placeholder="INSERT INTO Warsztaty..." />
+            <marker date="1453459029670" expanded="true" signature="7263:7309" placeholder="INSERT INTO Rezerwacje..." />
+            <marker date="1453459029670" expanded="true" signature="7263:7398" placeholder="INSERT INTO Rezerwacje..." />
+            <marker date="1453459029670" expanded="true" signature="7451:7497" placeholder="INSERT INTO Rezerwacje..." />
+            <marker date="1453459029670" expanded="true" signature="7682:7729" placeholder="INSERT INTO Szczegoly_rezerwacji..." />
+            <marker date="1453459029670" expanded="true" signature="8061:8102" placeholder="INSERT INTO Rezerwacje_dni..." />
+            <marker date="1453459029670" expanded="true" signature="9223:9272" placeholder="INSERT INTO Rezerwacje_warsztat..." />
+            <marker date="1453459029670" expanded="true" signature="9521:9566" placeholder="INSERT INTO Warsztat_uczestnik..." />
+            <marker date="1453459029670" expanded="true" signature="10226:10275" placeholder="INSERT INTO Rezerwacje_warsztat..." />
+            <marker date="1453459029670" expanded="true" signature="10508:10553" placeholder="INSERT INTO Warsztat_uczestnik..." />
+            <marker date="1453459029670" expanded="true" signature="10739:10781" placeholder="INSERT INTO Opłaty..." />
+            <marker date="1453459029670" expanded="true" signature="10920:10968" placeholder="INSERT INTO Opłaty..." />
+            <marker date="1453459029670" expanded="true" signature="10987:11034" placeholder="INSERT INTO Opłaty..." />
+            <marker date="1453459029670" expanded="true" signature="11054:11105" placeholder="INSERT INTO Rezerwacje..." />
+            <marker date="1453459029670" expanded="true" signature="11124:11175" placeholder="INSERT INTO Rezerwacje..." />
+            <marker date="1453459029670" expanded="true" signature="11194:11248" placeholder="INSERT INTO Rezerwacje..." />
+            <marker date="1453459029670" expanded="true" signature="11268:11318" placeholder="INSERT INTO Rezerwacje_warsztat..." />
+            <marker date="1453459029670" expanded="true" signature="11337:11387" placeholder="INSERT INTO Rezerwacje_warsztat..." />
+            <marker date="1453459029670" expanded="true" signature="11406:11455" placeholder="INSERT INTO Rezerwacje_warsztat..." />
+            <marker date="1453459029670" expanded="true" signature="11489:11538" placeholder="SELECT IDUcz..Uczestnik..." />
+            <marker date="1453459029670" expanded="true" signature="11633:11688" placeholder="SELECT IDUcz..Uczestnik..." />
+            <marker date="1453459029670" expanded="true" signature="11778:11825" placeholder="INSERT INTO Szczegoly_rezerwacji..." />
+            <marker date="1453459029670" expanded="true" signature="11849:11896" placeholder="INSERT INTO Szczegoly_rezerwacji..." />
+            <marker date="1453459029670" expanded="true" signature="11927:11972" placeholder="INSERT INTO Szczegoly_rezerwacji..." />
+            <marker date="1453459029670" expanded="true" signature="12006:12051" placeholder="INSERT INTO Warsztat_uczestnik..." />
+            <marker date="1453459029670" expanded="true" signature="12075:12120" placeholder="INSERT INTO Warsztat_uczestnik..." />
+            <marker date="1453459029670" expanded="true" signature="12151:12194" placeholder="INSERT INTO Warsztat_uczestnik..." />
+            <marker date="1453459029670" expanded="true" signature="12218:12259" placeholder="INSERT INTO Rezerwacje_dni..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/a.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="5" column="12" selection-start-line="5" selection-start-column="12" selection-end-line="5" selection-end-column="12" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/a.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="5" column="12" selection-start-line="5" selection-start-column="12" selection-end-line="5" selection-end-column="12" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/main.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="122" column="15" selection-start-line="122" selection-start-column="8" selection-end-line="122" selection-end-column="15" />
+          <folding>
+            <marker date="1453476457230" expanded="true" signature="228:253" placeholder="DROP TABLE R..." />
+            <marker date="1453476457230" expanded="true" signature="262:291" placeholder="DROP TABLE W..." />
+            <marker date="1453476457230" expanded="true" signature="300:331" placeholder="DROP TABLE S..." />
+            <marker date="1453476457230" expanded="true" signature="340:370" placeholder="DROP TABLE R..." />
+            <marker date="1453476457230" expanded="true" signature="379:396" placeholder="DROP TABLE O..." />
+            <marker date="1453476457230" expanded="true" signature="405:426" placeholder="DROP TABLE R..." />
+            <marker date="1453476457230" expanded="true" signature="435:455" placeholder="DROP TABLE U..." />
+            <marker date="1453476457230" expanded="true" signature="464:480" placeholder="DROP TABLE F..." />
+            <marker date="1453476457230" expanded="true" signature="489:509" placeholder="DROP TABLE W..." />
+            <marker date="1453476457230" expanded="true" signature="518:544" placeholder="DROP TABLE D..." />
+            <marker date="1453476457230" expanded="true" signature="553:575" placeholder="DROP TABLE K..." />
+            <marker date="1453476457230" expanded="true" signature="584:607" placeholder="DROP TABLE C..." />
+            <marker date="1453476457230" expanded="true" signature="614:630" placeholder="DROP TABLE F..." />
+            <marker date="1453476457230" expanded="true" signature="638:776" placeholder="CREATE TABLE..Firma..." />
+            <marker date="1453476457230" expanded="true" signature="811:1132" placeholder="CREATE TABLE..Uczestnik..." />
+            <marker date="1453476457230" expanded="true" signature="1166:1467" placeholder="CREATE TABLE..Konferencja..." />
+            <marker date="1453476457230" expanded="true" signature="1501:1788" placeholder="CREATE TABLE..Dni_Konferencji..." />
+            <marker date="1453476457230" expanded="true" signature="1823:1990" placeholder="CREATE TABLE..Cenny..." />
+            <marker date="1453476457230" expanded="true" signature="2023:2369" placeholder="CREATE TABLE..Warsztaty..." />
+            <marker date="1453476457230" expanded="true" signature="2403:2749" placeholder="CREATE TABLE..Rezerwacje..." />
+            <marker date="1453476457230" expanded="true" signature="2783:2979" placeholder="CREATE TABLE..Opłaty..." />
+            <marker date="1453476457230" expanded="true" signature="3012:3291" placeholder="CREATE TABLE..Rezerwacje..." />
+            <marker date="1453476457230" expanded="true" signature="3325:3479" placeholder="CREATE TABLE..Szczególy_rezerwacji..." />
+            <marker date="1453476457230" expanded="true" signature="3513:3672" placeholder="CREATE TABLE..Warsztat_uczestnik..." />
+            <marker date="1453476457230" expanded="true" signature="3706:3868" placeholder="CREATE TABLE..Szczegoly_rezerwacji..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/triggers.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="110" column="17" selection-start-line="110" selection-start-column="17" selection-end-line="110" selection-end-column="17" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/generator.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="e#0#14#0" expanded="true" />
+            <marker date="1453459029670" expanded="true" signature="515:549" placeholder="INSERT INTO Firma..." />
+            <marker date="1453459029670" expanded="true" signature="1197:1227" placeholder="INSERT INTO Uczestnik..." />
+            <marker date="1453459029670" expanded="true" signature="1197:1245" placeholder="INSERT INTO Uczestnik..." />
+            <marker date="1453459029670" expanded="true" signature="2262:2312" placeholder="INSERT INTO Konferencja..." />
+            <marker date="1453459029670" expanded="true" signature="2650:2698" placeholder="INSERT INTO Dni_Konferencji..." />
+            <marker date="1453459029670" expanded="true" signature="2840:2890" placeholder="INSERT INTO Konferencja..." />
+            <marker date="1453459029670" expanded="true" signature="3228:3276" placeholder="INSERT INTO Dni_Konferencji..." />
+            <marker date="1453459029670" expanded="true" signature="3415:3465" placeholder="INSERT INTO Konferencja..." />
+            <marker date="1453459029670" expanded="true" signature="3803:3851" placeholder="INSERT INTO Dni_Konferencji..." />
+            <marker date="1453459029670" expanded="true" signature="3991:4041" placeholder="INSERT INTO Konferencja..." />
+            <marker date="1453459029670" expanded="true" signature="4379:4427" placeholder="INSERT INTO Dni_Konferencji..." />
+            <marker date="1453459029670" expanded="true" signature="4588:4641" placeholder="INSERT INTO Progi_Cenowe..." />
+            <marker date="1453459029670" expanded="true" signature="5182:5227" placeholder="INSERT INTO Warsztaty..." />
+            <marker date="1453459029670" expanded="true" signature="7263:7309" placeholder="INSERT INTO Rezerwacje..." />
+            <marker date="1453459029670" expanded="true" signature="7263:7398" placeholder="INSERT INTO Rezerwacje..." />
+            <marker date="1453459029670" expanded="true" signature="7451:7497" placeholder="INSERT INTO Rezerwacje..." />
+            <marker date="1453459029670" expanded="true" signature="7682:7729" placeholder="INSERT INTO Szczegoly_rezerwacji..." />
+            <marker date="1453459029670" expanded="true" signature="8061:8102" placeholder="INSERT INTO Rezerwacje_dni..." />
+            <marker date="1453459029670" expanded="true" signature="9223:9272" placeholder="INSERT INTO Rezerwacje_warsztat..." />
+            <marker date="1453459029670" expanded="true" signature="9521:9566" placeholder="INSERT INTO Warsztat_uczestnik..." />
+            <marker date="1453459029670" expanded="true" signature="10226:10275" placeholder="INSERT INTO Rezerwacje_warsztat..." />
+            <marker date="1453459029670" expanded="true" signature="10508:10553" placeholder="INSERT INTO Warsztat_uczestnik..." />
+            <marker date="1453459029670" expanded="true" signature="10739:10781" placeholder="INSERT INTO Opłaty..." />
+            <marker date="1453459029670" expanded="true" signature="10920:10968" placeholder="INSERT INTO Opłaty..." />
+            <marker date="1453459029670" expanded="true" signature="10987:11034" placeholder="INSERT INTO Opłaty..." />
+            <marker date="1453459029670" expanded="true" signature="11054:11105" placeholder="INSERT INTO Rezerwacje..." />
+            <marker date="1453459029670" expanded="true" signature="11124:11175" placeholder="INSERT INTO Rezerwacje..." />
+            <marker date="1453459029670" expanded="true" signature="11194:11248" placeholder="INSERT INTO Rezerwacje..." />
+            <marker date="1453459029670" expanded="true" signature="11268:11318" placeholder="INSERT INTO Rezerwacje_warsztat..." />
+            <marker date="1453459029670" expanded="true" signature="11337:11387" placeholder="INSERT INTO Rezerwacje_warsztat..." />
+            <marker date="1453459029670" expanded="true" signature="11406:11455" placeholder="INSERT INTO Rezerwacje_warsztat..." />
+            <marker date="1453459029670" expanded="true" signature="11489:11538" placeholder="SELECT IDUcz..Uczestnik..." />
+            <marker date="1453459029670" expanded="true" signature="11633:11688" placeholder="SELECT IDUcz..Uczestnik..." />
+            <marker date="1453459029670" expanded="true" signature="11778:11825" placeholder="INSERT INTO Szczegoly_rezerwacji..." />
+            <marker date="1453459029670" expanded="true" signature="11849:11896" placeholder="INSERT INTO Szczegoly_rezerwacji..." />
+            <marker date="1453459029670" expanded="true" signature="11927:11972" placeholder="INSERT INTO Szczegoly_rezerwacji..." />
+            <marker date="1453459029670" expanded="true" signature="12006:12051" placeholder="INSERT INTO Warsztat_uczestnik..." />
+            <marker date="1453459029670" expanded="true" signature="12075:12120" placeholder="INSERT INTO Warsztat_uczestnik..." />
+            <marker date="1453459029670" expanded="true" signature="12151:12194" placeholder="INSERT INTO Warsztat_uczestnik..." />
+            <marker date="1453459029670" expanded="true" signature="12218:12259" placeholder="INSERT INTO Rezerwacje_dni..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/a.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="5" column="12" selection-start-line="5" selection-start-column="12" selection-end-line="5" selection-end-column="12" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/main.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="122" column="15" selection-start-line="122" selection-start-column="8" selection-end-line="122" selection-end-column="15" />
+          <folding>
+            <marker date="1453476457230" expanded="true" signature="228:253" placeholder="DROP TABLE R..." />
+            <marker date="1453476457230" expanded="true" signature="262:291" placeholder="DROP TABLE W..." />
+            <marker date="1453476457230" expanded="true" signature="300:331" placeholder="DROP TABLE S..." />
+            <marker date="1453476457230" expanded="true" signature="340:370" placeholder="DROP TABLE R..." />
+            <marker date="1453476457230" expanded="true" signature="379:396" placeholder="DROP TABLE O..." />
+            <marker date="1453476457230" expanded="true" signature="405:426" placeholder="DROP TABLE R..." />
+            <marker date="1453476457230" expanded="true" signature="435:455" placeholder="DROP TABLE U..." />
+            <marker date="1453476457230" expanded="true" signature="464:480" placeholder="DROP TABLE F..." />
+            <marker date="1453476457230" expanded="true" signature="489:509" placeholder="DROP TABLE W..." />
+            <marker date="1453476457230" expanded="true" signature="518:544" placeholder="DROP TABLE D..." />
+            <marker date="1453476457230" expanded="true" signature="553:575" placeholder="DROP TABLE K..." />
+            <marker date="1453476457230" expanded="true" signature="584:607" placeholder="DROP TABLE C..." />
+            <marker date="1453476457230" expanded="true" signature="614:630" placeholder="DROP TABLE F..." />
+            <marker date="1453476457230" expanded="true" signature="638:776" placeholder="CREATE TABLE..Firma..." />
+            <marker date="1453476457230" expanded="true" signature="811:1132" placeholder="CREATE TABLE..Uczestnik..." />
+            <marker date="1453476457230" expanded="true" signature="1166:1467" placeholder="CREATE TABLE..Konferencja..." />
+            <marker date="1453476457230" expanded="true" signature="1501:1788" placeholder="CREATE TABLE..Dni_Konferencji..." />
+            <marker date="1453476457230" expanded="true" signature="1823:1990" placeholder="CREATE TABLE..Cenny..." />
+            <marker date="1453476457230" expanded="true" signature="2023:2369" placeholder="CREATE TABLE..Warsztaty..." />
+            <marker date="1453476457230" expanded="true" signature="2403:2749" placeholder="CREATE TABLE..Rezerwacje..." />
+            <marker date="1453476457230" expanded="true" signature="2783:2979" placeholder="CREATE TABLE..Opłaty..." />
+            <marker date="1453476457230" expanded="true" signature="3012:3291" placeholder="CREATE TABLE..Rezerwacje..." />
+            <marker date="1453476457230" expanded="true" signature="3325:3479" placeholder="CREATE TABLE..Szczególy_rezerwacji..." />
+            <marker date="1453476457230" expanded="true" signature="3513:3672" placeholder="CREATE TABLE..Warsztat_uczestnik..." />
+            <marker date="1453476457230" expanded="true" signature="3706:3868" placeholder="CREATE TABLE..Szczegoly_rezerwacji..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/triggers.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="110" column="17" selection-start-line="110" selection-start-column="17" selection-end-line="110" selection-end-column="17" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/a.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="5" column="12" selection-start-line="5" selection-start-column="12" selection-end-line="5" selection-end-column="12" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/main.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="39" column="34" selection-start-line="39" selection-start-column="34" selection-end-line="39" selection-end-column="34" />
+          <folding>
+            <marker date="1453476457230" expanded="true" signature="228:253" placeholder="DROP TABLE R..." />
+            <marker date="1453476457230" expanded="true" signature="262:291" placeholder="DROP TABLE W..." />
+            <marker date="1453476457230" expanded="true" signature="300:331" placeholder="DROP TABLE S..." />
+            <marker date="1453476457230" expanded="true" signature="340:370" placeholder="DROP TABLE R..." />
+            <marker date="1453476457230" expanded="true" signature="379:396" placeholder="DROP TABLE O..." />
+            <marker date="1453476457230" expanded="true" signature="405:426" placeholder="DROP TABLE R..." />
+            <marker date="1453476457230" expanded="true" signature="435:455" placeholder="DROP TABLE U..." />
+            <marker date="1453476457230" expanded="true" signature="464:480" placeholder="DROP TABLE F..." />
+            <marker date="1453476457230" expanded="true" signature="489:509" placeholder="DROP TABLE W..." />
+            <marker date="1453476457230" expanded="true" signature="518:544" placeholder="DROP TABLE D..." />
+            <marker date="1453476457230" expanded="true" signature="553:575" placeholder="DROP TABLE K..." />
+            <marker date="1453476457230" expanded="true" signature="584:607" placeholder="DROP TABLE C..." />
+            <marker date="1453476457230" expanded="true" signature="614:630" placeholder="DROP TABLE F..." />
+            <marker date="1453476457230" expanded="true" signature="638:776" placeholder="CREATE TABLE..Firma..." />
+            <marker date="1453476457230" expanded="true" signature="811:1132" placeholder="CREATE TABLE..Uczestnik..." />
+            <marker date="1453476457230" expanded="true" signature="1166:1467" placeholder="CREATE TABLE..Konferencja..." />
+            <marker date="1453476457230" expanded="true" signature="1501:1788" placeholder="CREATE TABLE..Dni_Konferencji..." />
+            <marker date="1453476457230" expanded="true" signature="1823:1990" placeholder="CREATE TABLE..Cenny..." />
+            <marker date="1453476457230" expanded="true" signature="2023:2369" placeholder="CREATE TABLE..Warsztaty..." />
+            <marker date="1453476457230" expanded="true" signature="2403:2749" placeholder="CREATE TABLE..Rezerwacje..." />
+            <marker date="1453476457230" expanded="true" signature="2783:2979" placeholder="CREATE TABLE..Opłaty..." />
+            <marker date="1453476457230" expanded="true" signature="3012:3291" placeholder="CREATE TABLE..Rezerwacje..." />
+            <marker date="1453476457230" expanded="true" signature="3325:3479" placeholder="CREATE TABLE..Szczególy_rezerwacji..." />
+            <marker date="1453476457230" expanded="true" signature="3513:3672" placeholder="CREATE TABLE..Warsztat_uczestnik..." />
+            <marker date="1453476457230" expanded="true" signature="3706:3868" placeholder="CREATE TABLE..Szczegoly_rezerwacji..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/triggers.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="19" column="7" selection-start-line="19" selection-start-column="7" selection-end-line="19" selection-end-column="7" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/generator.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="e#0#14#0" expanded="true" />
+            <marker date="1453459029670" expanded="true" signature="515:549" placeholder="INSERT INTO Firma..." />
+            <marker date="1453459029670" expanded="true" signature="1197:1227" placeholder="INSERT INTO Uczestnik..." />
+            <marker date="1453459029670" expanded="true" signature="1197:1245" placeholder="INSERT INTO Uczestnik..." />
+            <marker date="1453459029670" expanded="true" signature="2262:2312" placeholder="INSERT INTO Konferencja..." />
+            <marker date="1453459029670" expanded="true" signature="2650:2698" placeholder="INSERT INTO Dni_Konferencji..." />
+            <marker date="1453459029670" expanded="true" signature="2840:2890" placeholder="INSERT INTO Konferencja..." />
+            <marker date="1453459029670" expanded="true" signature="3228:3276" placeholder="INSERT INTO Dni_Konferencji..." />
+            <marker date="1453459029670" expanded="true" signature="3415:3465" placeholder="INSERT INTO Konferencja..." />
+            <marker date="1453459029670" expanded="true" signature="3803:3851" placeholder="INSERT INTO Dni_Konferencji..." />
+            <marker date="1453459029670" expanded="true" signature="3991:4041" placeholder="INSERT INTO Konferencja..." />
+            <marker date="1453459029670" expanded="true" signature="4379:4427" placeholder="INSERT INTO Dni_Konferencji..." />
+            <marker date="1453459029670" expanded="true" signature="4588:4641" placeholder="INSERT INTO Progi_Cenowe..." />
+            <marker date="1453459029670" expanded="true" signature="5182:5227" placeholder="INSERT INTO Warsztaty..." />
+            <marker date="1453459029670" expanded="true" signature="7263:7309" placeholder="INSERT INTO Rezerwacje..." />
+            <marker date="1453459029670" expanded="true" signature="7263:7398" placeholder="INSERT INTO Rezerwacje..." />
+            <marker date="1453459029670" expanded="true" signature="7451:7497" placeholder="INSERT INTO Rezerwacje..." />
+            <marker date="1453459029670" expanded="true" signature="7682:7729" placeholder="INSERT INTO Szczegoly_rezerwacji..." />
+            <marker date="1453459029670" expanded="true" signature="8061:8102" placeholder="INSERT INTO Rezerwacje_dni..." />
+            <marker date="1453459029670" expanded="true" signature="9223:9272" placeholder="INSERT INTO Rezerwacje_warsztat..." />
+            <marker date="1453459029670" expanded="true" signature="9521:9566" placeholder="INSERT INTO Warsztat_uczestnik..." />
+            <marker date="1453459029670" expanded="true" signature="10226:10275" placeholder="INSERT INTO Rezerwacje_warsztat..." />
+            <marker date="1453459029670" expanded="true" signature="10508:10553" placeholder="INSERT INTO Warsztat_uczestnik..." />
+            <marker date="1453459029670" expanded="true" signature="10739:10781" placeholder="INSERT INTO Opłaty..." />
+            <marker date="1453459029670" expanded="true" signature="10920:10968" placeholder="INSERT INTO Opłaty..." />
+            <marker date="1453459029670" expanded="true" signature="10987:11034" placeholder="INSERT INTO Opłaty..." />
+            <marker date="1453459029670" expanded="true" signature="11054:11105" placeholder="INSERT INTO Rezerwacje..." />
+            <marker date="1453459029670" expanded="true" signature="11124:11175" placeholder="INSERT INTO Rezerwacje..." />
+            <marker date="1453459029670" expanded="true" signature="11194:11248" placeholder="INSERT INTO Rezerwacje..." />
+            <marker date="1453459029670" expanded="true" signature="11268:11318" placeholder="INSERT INTO Rezerwacje_warsztat..." />
+            <marker date="1453459029670" expanded="true" signature="11337:11387" placeholder="INSERT INTO Rezerwacje_warsztat..." />
+            <marker date="1453459029670" expanded="true" signature="11406:11455" placeholder="INSERT INTO Rezerwacje_warsztat..." />
+            <marker date="1453459029670" expanded="true" signature="11489:11538" placeholder="SELECT IDUcz..Uczestnik..." />
+            <marker date="1453459029670" expanded="true" signature="11633:11688" placeholder="SELECT IDUcz..Uczestnik..." />
+            <marker date="1453459029670" expanded="true" signature="11778:11825" placeholder="INSERT INTO Szczegoly_rezerwacji..." />
+            <marker date="1453459029670" expanded="true" signature="11849:11896" placeholder="INSERT INTO Szczegoly_rezerwacji..." />
+            <marker date="1453459029670" expanded="true" signature="11927:11972" placeholder="INSERT INTO Szczegoly_rezerwacji..." />
+            <marker date="1453459029670" expanded="true" signature="12006:12051" placeholder="INSERT INTO Warsztat_uczestnik..." />
+            <marker date="1453459029670" expanded="true" signature="12075:12120" placeholder="INSERT INTO Warsztat_uczestnik..." />
+            <marker date="1453459029670" expanded="true" signature="12151:12194" placeholder="INSERT INTO Warsztat_uczestnik..." />
+            <marker date="1453459029670" expanded="true" signature="12218:12259" placeholder="INSERT INTO Rezerwacje_dni..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/a.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="7" column="88" selection-start-line="7" selection-start-column="88" selection-end-line="7" selection-end-column="88" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/main.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="52" column="32" selection-start-line="52" selection-start-column="32" selection-end-line="52" selection-end-column="32" />
+          <folding>
+            <marker date="1453476457230" expanded="true" signature="228:253" placeholder="DROP TABLE R..." />
+            <marker date="1453476457230" expanded="true" signature="262:291" placeholder="DROP TABLE W..." />
+            <marker date="1453476457230" expanded="true" signature="300:331" placeholder="DROP TABLE S..." />
+            <marker date="1453476457230" expanded="true" signature="340:370" placeholder="DROP TABLE R..." />
+            <marker date="1453476457230" expanded="true" signature="379:396" placeholder="DROP TABLE O..." />
+            <marker date="1453476457230" expanded="true" signature="405:426" placeholder="DROP TABLE R..." />
+            <marker date="1453476457230" expanded="true" signature="435:455" placeholder="DROP TABLE U..." />
+            <marker date="1453476457230" expanded="true" signature="464:480" placeholder="DROP TABLE F..." />
+            <marker date="1453476457230" expanded="true" signature="489:509" placeholder="DROP TABLE W..." />
+            <marker date="1453476457230" expanded="true" signature="518:544" placeholder="DROP TABLE D..." />
+            <marker date="1453476457230" expanded="true" signature="553:575" placeholder="DROP TABLE K..." />
+            <marker date="1453476457230" expanded="true" signature="584:607" placeholder="DROP TABLE C..." />
+            <marker date="1453476457230" expanded="true" signature="614:630" placeholder="DROP TABLE F..." />
+            <marker date="1453476457230" expanded="true" signature="638:776" placeholder="CREATE TABLE..Firma..." />
+            <marker date="1453476457230" expanded="true" signature="811:1132" placeholder="CREATE TABLE..Uczestnik..." />
+            <marker date="1453476457230" expanded="true" signature="1166:1467" placeholder="CREATE TABLE..Konferencja..." />
+            <marker date="1453476457230" expanded="true" signature="1501:1788" placeholder="CREATE TABLE..Dni_Konferencji..." />
+            <marker date="1453476457230" expanded="true" signature="1823:1990" placeholder="CREATE TABLE..Cenny..." />
+            <marker date="1453476457230" expanded="true" signature="2023:2369" placeholder="CREATE TABLE..Warsztaty..." />
+            <marker date="1453476457230" expanded="true" signature="2403:2749" placeholder="CREATE TABLE..Rezerwacje..." />
+            <marker date="1453476457230" expanded="true" signature="2783:2979" placeholder="CREATE TABLE..Opłaty..." />
+            <marker date="1453476457230" expanded="true" signature="3012:3291" placeholder="CREATE TABLE..Rezerwacje..." />
+            <marker date="1453476457230" expanded="true" signature="3325:3479" placeholder="CREATE TABLE..Szczególy_rezerwacji..." />
+            <marker date="1453476457230" expanded="true" signature="3513:3672" placeholder="CREATE TABLE..Warsztat_uczestnik..." />
+            <marker date="1453476457230" expanded="true" signature="3706:3868" placeholder="CREATE TABLE..Szczegoly_rezerwacji..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/main.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="53" column="34" selection-start-line="53" selection-start-column="34" selection-end-line="53" selection-end-column="34" />
+          <folding>
+            <marker date="1453476457230" expanded="true" signature="228:253" placeholder="DROP TABLE R..." />
+            <marker date="1453476457230" expanded="true" signature="262:291" placeholder="DROP TABLE W..." />
+            <marker date="1453476457230" expanded="true" signature="300:331" placeholder="DROP TABLE S..." />
+            <marker date="1453476457230" expanded="true" signature="340:370" placeholder="DROP TABLE R..." />
+            <marker date="1453476457230" expanded="true" signature="379:396" placeholder="DROP TABLE O..." />
+            <marker date="1453476457230" expanded="true" signature="405:426" placeholder="DROP TABLE R..." />
+            <marker date="1453476457230" expanded="true" signature="435:455" placeholder="DROP TABLE U..." />
+            <marker date="1453476457230" expanded="true" signature="464:480" placeholder="DROP TABLE F..." />
+            <marker date="1453476457230" expanded="true" signature="489:509" placeholder="DROP TABLE W..." />
+            <marker date="1453476457230" expanded="true" signature="518:544" placeholder="DROP TABLE D..." />
+            <marker date="1453476457230" expanded="true" signature="553:575" placeholder="DROP TABLE K..." />
+            <marker date="1453476457230" expanded="true" signature="584:607" placeholder="DROP TABLE C..." />
+            <marker date="1453476457230" expanded="true" signature="614:630" placeholder="DROP TABLE F..." />
+            <marker date="1453476457230" expanded="true" signature="638:776" placeholder="CREATE TABLE..Firma..." />
+            <marker date="1453476457230" expanded="true" signature="811:1132" placeholder="CREATE TABLE..Uczestnik..." />
+            <marker date="1453476457230" expanded="true" signature="1166:1467" placeholder="CREATE TABLE..Konferencja..." />
+            <marker date="1453476457230" expanded="true" signature="1501:1788" placeholder="CREATE TABLE..Dni_Konferencji..." />
+            <marker date="1453476457230" expanded="true" signature="1823:1990" placeholder="CREATE TABLE..Cenny..." />
+            <marker date="1453476457230" expanded="true" signature="2023:2369" placeholder="CREATE TABLE..Warsztaty..." />
+            <marker date="1453476457230" expanded="true" signature="2403:2749" placeholder="CREATE TABLE..Rezerwacje..." />
+            <marker date="1453476457230" expanded="true" signature="2783:2979" placeholder="CREATE TABLE..Opłaty..." />
+            <marker date="1453476457230" expanded="true" signature="3012:3291" placeholder="CREATE TABLE..Rezerwacje..." />
+            <marker date="1453476457230" expanded="true" signature="3325:3479" placeholder="CREATE TABLE..Szczególy_rezerwacji..." />
+            <marker date="1453476457230" expanded="true" signature="3513:3672" placeholder="CREATE TABLE..Warsztat_uczestnik..." />
+            <marker date="1453476457230" expanded="true" signature="3706:3868" placeholder="CREATE TABLE..Szczegoly_rezerwacji..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/triggers.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="19" column="7" selection-start-line="19" selection-start-column="7" selection-end-line="19" selection-end-column="7" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/generator.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="e#0#14#0" expanded="true" />
+            <marker date="1453459029670" expanded="true" signature="515:549" placeholder="INSERT INTO Firma..." />
+            <marker date="1453459029670" expanded="true" signature="1197:1227" placeholder="INSERT INTO Uczestnik..." />
+            <marker date="1453459029670" expanded="true" signature="1197:1245" placeholder="INSERT INTO Uczestnik..." />
+            <marker date="1453459029670" expanded="true" signature="2262:2312" placeholder="INSERT INTO Konferencja..." />
+            <marker date="1453459029670" expanded="true" signature="2650:2698" placeholder="INSERT INTO Dni_Konferencji..." />
+            <marker date="1453459029670" expanded="true" signature="2840:2890" placeholder="INSERT INTO Konferencja..." />
+            <marker date="1453459029670" expanded="true" signature="3228:3276" placeholder="INSERT INTO Dni_Konferencji..." />
+            <marker date="1453459029670" expanded="true" signature="3415:3465" placeholder="INSERT INTO Konferencja..." />
+            <marker date="1453459029670" expanded="true" signature="3803:3851" placeholder="INSERT INTO Dni_Konferencji..." />
+            <marker date="1453459029670" expanded="true" signature="3991:4041" placeholder="INSERT INTO Konferencja..." />
+            <marker date="1453459029670" expanded="true" signature="4379:4427" placeholder="INSERT INTO Dni_Konferencji..." />
+            <marker date="1453459029670" expanded="true" signature="4588:4641" placeholder="INSERT INTO Progi_Cenowe..." />
+            <marker date="1453459029670" expanded="true" signature="5182:5227" placeholder="INSERT INTO Warsztaty..." />
+            <marker date="1453459029670" expanded="true" signature="7263:7309" placeholder="INSERT INTO Rezerwacje..." />
+            <marker date="1453459029670" expanded="true" signature="7263:7398" placeholder="INSERT INTO Rezerwacje..." />
+            <marker date="1453459029670" expanded="true" signature="7451:7497" placeholder="INSERT INTO Rezerwacje..." />
+            <marker date="1453459029670" expanded="true" signature="7682:7729" placeholder="INSERT INTO Szczegoly_rezerwacji..." />
+            <marker date="1453459029670" expanded="true" signature="8061:8102" placeholder="INSERT INTO Rezerwacje_dni..." />
+            <marker date="1453459029670" expanded="true" signature="9223:9272" placeholder="INSERT INTO Rezerwacje_warsztat..." />
+            <marker date="1453459029670" expanded="true" signature="9521:9566" placeholder="INSERT INTO Warsztat_uczestnik..." />
+            <marker date="1453459029670" expanded="true" signature="10226:10275" placeholder="INSERT INTO Rezerwacje_warsztat..." />
+            <marker date="1453459029670" expanded="true" signature="10508:10553" placeholder="INSERT INTO Warsztat_uczestnik..." />
+            <marker date="1453459029670" expanded="true" signature="10739:10781" placeholder="INSERT INTO Opłaty..." />
+            <marker date="1453459029670" expanded="true" signature="10920:10968" placeholder="INSERT INTO Opłaty..." />
+            <marker date="1453459029670" expanded="true" signature="10987:11034" placeholder="INSERT INTO Opłaty..." />
+            <marker date="1453459029670" expanded="true" signature="11054:11105" placeholder="INSERT INTO Rezerwacje..." />
+            <marker date="1453459029670" expanded="true" signature="11124:11175" placeholder="INSERT INTO Rezerwacje..." />
+            <marker date="1453459029670" expanded="true" signature="11194:11248" placeholder="INSERT INTO Rezerwacje..." />
+            <marker date="1453459029670" expanded="true" signature="11268:11318" placeholder="INSERT INTO Rezerwacje_warsztat..." />
+            <marker date="1453459029670" expanded="true" signature="11337:11387" placeholder="INSERT INTO Rezerwacje_warsztat..." />
+            <marker date="1453459029670" expanded="true" signature="11406:11455" placeholder="INSERT INTO Rezerwacje_warsztat..." />
+            <marker date="1453459029670" expanded="true" signature="11489:11538" placeholder="SELECT IDUcz..Uczestnik..." />
+            <marker date="1453459029670" expanded="true" signature="11633:11688" placeholder="SELECT IDUcz..Uczestnik..." />
+            <marker date="1453459029670" expanded="true" signature="11778:11825" placeholder="INSERT INTO Szczegoly_rezerwacji..." />
+            <marker date="1453459029670" expanded="true" signature="11849:11896" placeholder="INSERT INTO Szczegoly_rezerwacji..." />
+            <marker date="1453459029670" expanded="true" signature="11927:11972" placeholder="INSERT INTO Szczegoly_rezerwacji..." />
+            <marker date="1453459029670" expanded="true" signature="12006:12051" placeholder="INSERT INTO Warsztat_uczestnik..." />
+            <marker date="1453459029670" expanded="true" signature="12075:12120" placeholder="INSERT INTO Warsztat_uczestnik..." />
+            <marker date="1453459029670" expanded="true" signature="12151:12194" placeholder="INSERT INTO Warsztat_uczestnik..." />
+            <marker date="1453459029670" expanded="true" signature="12218:12259" placeholder="INSERT INTO Rezerwacje_dni..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/a.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="7" column="88" selection-start-line="7" selection-start-column="88" selection-end-line="7" selection-end-column="88" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/main.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="53" column="34" selection-start-line="53" selection-start-column="34" selection-end-line="53" selection-end-column="34" />
+          <folding>
+            <marker date="1453476457230" expanded="true" signature="228:253" placeholder="DROP TABLE R..." />
+            <marker date="1453476457230" expanded="true" signature="262:291" placeholder="DROP TABLE W..." />
+            <marker date="1453476457230" expanded="true" signature="300:331" placeholder="DROP TABLE S..." />
+            <marker date="1453476457230" expanded="true" signature="340:370" placeholder="DROP TABLE R..." />
+            <marker date="1453476457230" expanded="true" signature="379:396" placeholder="DROP TABLE O..." />
+            <marker date="1453476457230" expanded="true" signature="405:426" placeholder="DROP TABLE R..." />
+            <marker date="1453476457230" expanded="true" signature="435:455" placeholder="DROP TABLE U..." />
+            <marker date="1453476457230" expanded="true" signature="464:480" placeholder="DROP TABLE F..." />
+            <marker date="1453476457230" expanded="true" signature="489:509" placeholder="DROP TABLE W..." />
+            <marker date="1453476457230" expanded="true" signature="518:544" placeholder="DROP TABLE D..." />
+            <marker date="1453476457230" expanded="true" signature="553:575" placeholder="DROP TABLE K..." />
+            <marker date="1453476457230" expanded="true" signature="584:607" placeholder="DROP TABLE C..." />
+            <marker date="1453476457230" expanded="true" signature="614:630" placeholder="DROP TABLE F..." />
+            <marker date="1453476457230" expanded="true" signature="638:776" placeholder="CREATE TABLE..Firma..." />
+            <marker date="1453476457230" expanded="true" signature="811:1132" placeholder="CREATE TABLE..Uczestnik..." />
+            <marker date="1453476457230" expanded="true" signature="1166:1467" placeholder="CREATE TABLE..Konferencja..." />
+            <marker date="1453476457230" expanded="true" signature="1501:1788" placeholder="CREATE TABLE..Dni_Konferencji..." />
+            <marker date="1453476457230" expanded="true" signature="1823:1990" placeholder="CREATE TABLE..Cenny..." />
+            <marker date="1453476457230" expanded="true" signature="2023:2369" placeholder="CREATE TABLE..Warsztaty..." />
+            <marker date="1453476457230" expanded="true" signature="2403:2749" placeholder="CREATE TABLE..Rezerwacje..." />
+            <marker date="1453476457230" expanded="true" signature="2783:2979" placeholder="CREATE TABLE..Opłaty..." />
+            <marker date="1453476457230" expanded="true" signature="3012:3291" placeholder="CREATE TABLE..Rezerwacje..." />
+            <marker date="1453476457230" expanded="true" signature="3325:3479" placeholder="CREATE TABLE..Szczególy_rezerwacji..." />
+            <marker date="1453476457230" expanded="true" signature="3513:3672" placeholder="CREATE TABLE..Warsztat_uczestnik..." />
+            <marker date="1453476457230" expanded="true" signature="3706:3868" placeholder="CREATE TABLE..Szczegoly_rezerwacji..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/triggers.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="19" column="7" selection-start-line="19" selection-start-column="7" selection-end-line="19" selection-end-column="7" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/generator.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="e#0#14#0" expanded="true" />
+            <marker date="1453459029670" expanded="true" signature="515:549" placeholder="INSERT INTO Firma..." />
+            <marker date="1453459029670" expanded="true" signature="1197:1227" placeholder="INSERT INTO Uczestnik..." />
+            <marker date="1453459029670" expanded="true" signature="1197:1245" placeholder="INSERT INTO Uczestnik..." />
+            <marker date="1453459029670" expanded="true" signature="2262:2312" placeholder="INSERT INTO Konferencja..." />
+            <marker date="1453459029670" expanded="true" signature="2650:2698" placeholder="INSERT INTO Dni_Konferencji..." />
+            <marker date="1453459029670" expanded="true" signature="2840:2890" placeholder="INSERT INTO Konferencja..." />
+            <marker date="1453459029670" expanded="true" signature="3228:3276" placeholder="INSERT INTO Dni_Konferencji..." />
+            <marker date="1453459029670" expanded="true" signature="3415:3465" placeholder="INSERT INTO Konferencja..." />
+            <marker date="1453459029670" expanded="true" signature="3803:3851" placeholder="INSERT INTO Dni_Konferencji..." />
+            <marker date="1453459029670" expanded="true" signature="3991:4041" placeholder="INSERT INTO Konferencja..." />
+            <marker date="1453459029670" expanded="true" signature="4379:4427" placeholder="INSERT INTO Dni_Konferencji..." />
+            <marker date="1453459029670" expanded="true" signature="4588:4641" placeholder="INSERT INTO Progi_Cenowe..." />
+            <marker date="1453459029670" expanded="true" signature="5182:5227" placeholder="INSERT INTO Warsztaty..." />
+            <marker date="1453459029670" expanded="true" signature="7263:7309" placeholder="INSERT INTO Rezerwacje..." />
+            <marker date="1453459029670" expanded="true" signature="7263:7398" placeholder="INSERT INTO Rezerwacje..." />
+            <marker date="1453459029670" expanded="true" signature="7451:7497" placeholder="INSERT INTO Rezerwacje..." />
+            <marker date="1453459029670" expanded="true" signature="7682:7729" placeholder="INSERT INTO Szczegoly_rezerwacji..." />
+            <marker date="1453459029670" expanded="true" signature="8061:8102" placeholder="INSERT INTO Rezerwacje_dni..." />
+            <marker date="1453459029670" expanded="true" signature="9223:9272" placeholder="INSERT INTO Rezerwacje_warsztat..." />
+            <marker date="1453459029670" expanded="true" signature="9521:9566" placeholder="INSERT INTO Warsztat_uczestnik..." />
+            <marker date="1453459029670" expanded="true" signature="10226:10275" placeholder="INSERT INTO Rezerwacje_warsztat..." />
+            <marker date="1453459029670" expanded="true" signature="10508:10553" placeholder="INSERT INTO Warsztat_uczestnik..." />
+            <marker date="1453459029670" expanded="true" signature="10739:10781" placeholder="INSERT INTO Opłaty..." />
+            <marker date="1453459029670" expanded="true" signature="10920:10968" placeholder="INSERT INTO Opłaty..." />
+            <marker date="1453459029670" expanded="true" signature="10987:11034" placeholder="INSERT INTO Opłaty..." />
+            <marker date="1453459029670" expanded="true" signature="11054:11105" placeholder="INSERT INTO Rezerwacje..." />
+            <marker date="1453459029670" expanded="true" signature="11124:11175" placeholder="INSERT INTO Rezerwacje..." />
+            <marker date="1453459029670" expanded="true" signature="11194:11248" placeholder="INSERT INTO Rezerwacje..." />
+            <marker date="1453459029670" expanded="true" signature="11268:11318" placeholder="INSERT INTO Rezerwacje_warsztat..." />
+            <marker date="1453459029670" expanded="true" signature="11337:11387" placeholder="INSERT INTO Rezerwacje_warsztat..." />
+            <marker date="1453459029670" expanded="true" signature="11406:11455" placeholder="INSERT INTO Rezerwacje_warsztat..." />
+            <marker date="1453459029670" expanded="true" signature="11489:11538" placeholder="SELECT IDUcz..Uczestnik..." />
+            <marker date="1453459029670" expanded="true" signature="11633:11688" placeholder="SELECT IDUcz..Uczestnik..." />
+            <marker date="1453459029670" expanded="true" signature="11778:11825" placeholder="INSERT INTO Szczegoly_rezerwacji..." />
+            <marker date="1453459029670" expanded="true" signature="11849:11896" placeholder="INSERT INTO Szczegoly_rezerwacji..." />
+            <marker date="1453459029670" expanded="true" signature="11927:11972" placeholder="INSERT INTO Szczegoly_rezerwacji..." />
+            <marker date="1453459029670" expanded="true" signature="12006:12051" placeholder="INSERT INTO Warsztat_uczestnik..." />
+            <marker date="1453459029670" expanded="true" signature="12075:12120" placeholder="INSERT INTO Warsztat_uczestnik..." />
+            <marker date="1453459029670" expanded="true" signature="12151:12194" placeholder="INSERT INTO Warsztat_uczestnik..." />
+            <marker date="1453459029670" expanded="true" signature="12218:12259" placeholder="INSERT INTO Rezerwacje_dni..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/a.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="7" column="88" selection-start-line="7" selection-start-column="88" selection-end-line="7" selection-end-column="88" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/main.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="53" column="34" selection-start-line="53" selection-start-column="34" selection-end-line="53" selection-end-column="34" />
+          <folding>
+            <marker date="1453476457230" expanded="true" signature="228:253" placeholder="DROP TABLE R..." />
+            <marker date="1453476457230" expanded="true" signature="262:291" placeholder="DROP TABLE W..." />
+            <marker date="1453476457230" expanded="true" signature="300:331" placeholder="DROP TABLE S..." />
+            <marker date="1453476457230" expanded="true" signature="340:370" placeholder="DROP TABLE R..." />
+            <marker date="1453476457230" expanded="true" signature="379:396" placeholder="DROP TABLE O..." />
+            <marker date="1453476457230" expanded="true" signature="405:426" placeholder="DROP TABLE R..." />
+            <marker date="1453476457230" expanded="true" signature="435:455" placeholder="DROP TABLE U..." />
+            <marker date="1453476457230" expanded="true" signature="464:480" placeholder="DROP TABLE F..." />
+            <marker date="1453476457230" expanded="true" signature="489:509" placeholder="DROP TABLE W..." />
+            <marker date="1453476457230" expanded="true" signature="518:544" placeholder="DROP TABLE D..." />
+            <marker date="1453476457230" expanded="true" signature="553:575" placeholder="DROP TABLE K..." />
+            <marker date="1453476457230" expanded="true" signature="584:607" placeholder="DROP TABLE C..." />
+            <marker date="1453476457230" expanded="true" signature="614:630" placeholder="DROP TABLE F..." />
+            <marker date="1453476457230" expanded="true" signature="638:776" placeholder="CREATE TABLE..Firma..." />
+            <marker date="1453476457230" expanded="true" signature="811:1132" placeholder="CREATE TABLE..Uczestnik..." />
+            <marker date="1453476457230" expanded="true" signature="1166:1467" placeholder="CREATE TABLE..Konferencja..." />
+            <marker date="1453476457230" expanded="true" signature="1501:1788" placeholder="CREATE TABLE..Dni_Konferencji..." />
+            <marker date="1453476457230" expanded="true" signature="1823:1990" placeholder="CREATE TABLE..Cenny..." />
+            <marker date="1453476457230" expanded="true" signature="2023:2369" placeholder="CREATE TABLE..Warsztaty..." />
+            <marker date="1453476457230" expanded="true" signature="2403:2749" placeholder="CREATE TABLE..Rezerwacje..." />
+            <marker date="1453476457230" expanded="true" signature="2783:2979" placeholder="CREATE TABLE..Opłaty..." />
+            <marker date="1453476457230" expanded="true" signature="3012:3291" placeholder="CREATE TABLE..Rezerwacje..." />
+            <marker date="1453476457230" expanded="true" signature="3325:3479" placeholder="CREATE TABLE..Szczególy_rezerwacji..." />
+            <marker date="1453476457230" expanded="true" signature="3513:3672" placeholder="CREATE TABLE..Warsztat_uczestnik..." />
+            <marker date="1453476457230" expanded="true" signature="3706:3868" placeholder="CREATE TABLE..Szczegoly_rezerwacji..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/triggers.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="19" column="7" selection-start-line="19" selection-start-column="7" selection-end-line="19" selection-end-column="7" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/generator.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="e#0#14#0" expanded="true" />
+            <marker date="1453459029670" expanded="true" signature="515:549" placeholder="INSERT INTO Firma..." />
+            <marker date="1453459029670" expanded="true" signature="1197:1227" placeholder="INSERT INTO Uczestnik..." />
+            <marker date="1453459029670" expanded="true" signature="1197:1245" placeholder="INSERT INTO Uczestnik..." />
+            <marker date="1453459029670" expanded="true" signature="2262:2312" placeholder="INSERT INTO Konferencja..." />
+            <marker date="1453459029670" expanded="true" signature="2650:2698" placeholder="INSERT INTO Dni_Konferencji..." />
+            <marker date="1453459029670" expanded="true" signature="2840:2890" placeholder="INSERT INTO Konferencja..." />
+            <marker date="1453459029670" expanded="true" signature="3228:3276" placeholder="INSERT INTO Dni_Konferencji..." />
+            <marker date="1453459029670" expanded="true" signature="3415:3465" placeholder="INSERT INTO Konferencja..." />
+            <marker date="1453459029670" expanded="true" signature="3803:3851" placeholder="INSERT INTO Dni_Konferencji..." />
+            <marker date="1453459029670" expanded="true" signature="3991:4041" placeholder="INSERT INTO Konferencja..." />
+            <marker date="1453459029670" expanded="true" signature="4379:4427" placeholder="INSERT INTO Dni_Konferencji..." />
+            <marker date="1453459029670" expanded="true" signature="4588:4641" placeholder="INSERT INTO Progi_Cenowe..." />
+            <marker date="1453459029670" expanded="true" signature="5182:5227" placeholder="INSERT INTO Warsztaty..." />
+            <marker date="1453459029670" expanded="true" signature="7263:7309" placeholder="INSERT INTO Rezerwacje..." />
+            <marker date="1453459029670" expanded="true" signature="7263:7398" placeholder="INSERT INTO Rezerwacje..." />
+            <marker date="1453459029670" expanded="true" signature="7451:7497" placeholder="INSERT INTO Rezerwacje..." />
+            <marker date="1453459029670" expanded="true" signature="7682:7729" placeholder="INSERT INTO Szczegoly_rezerwacji..." />
+            <marker date="1453459029670" expanded="true" signature="8061:8102" placeholder="INSERT INTO Rezerwacje_dni..." />
+            <marker date="1453459029670" expanded="true" signature="9223:9272" placeholder="INSERT INTO Rezerwacje_warsztat..." />
+            <marker date="1453459029670" expanded="true" signature="9521:9566" placeholder="INSERT INTO Warsztat_uczestnik..." />
+            <marker date="1453459029670" expanded="true" signature="10226:10275" placeholder="INSERT INTO Rezerwacje_warsztat..." />
+            <marker date="1453459029670" expanded="true" signature="10508:10553" placeholder="INSERT INTO Warsztat_uczestnik..." />
+            <marker date="1453459029670" expanded="true" signature="10739:10781" placeholder="INSERT INTO Opłaty..." />
+            <marker date="1453459029670" expanded="true" signature="10920:10968" placeholder="INSERT INTO Opłaty..." />
+            <marker date="1453459029670" expanded="true" signature="10987:11034" placeholder="INSERT INTO Opłaty..." />
+            <marker date="1453459029670" expanded="true" signature="11054:11105" placeholder="INSERT INTO Rezerwacje..." />
+            <marker date="1453459029670" expanded="true" signature="11124:11175" placeholder="INSERT INTO Rezerwacje..." />
+            <marker date="1453459029670" expanded="true" signature="11194:11248" placeholder="INSERT INTO Rezerwacje..." />
+            <marker date="1453459029670" expanded="true" signature="11268:11318" placeholder="INSERT INTO Rezerwacje_warsztat..." />
+            <marker date="1453459029670" expanded="true" signature="11337:11387" placeholder="INSERT INTO Rezerwacje_warsztat..." />
+            <marker date="1453459029670" expanded="true" signature="11406:11455" placeholder="INSERT INTO Rezerwacje_warsztat..." />
+            <marker date="1453459029670" expanded="true" signature="11489:11538" placeholder="SELECT IDUcz..Uczestnik..." />
+            <marker date="1453459029670" expanded="true" signature="11633:11688" placeholder="SELECT IDUcz..Uczestnik..." />
+            <marker date="1453459029670" expanded="true" signature="11778:11825" placeholder="INSERT INTO Szczegoly_rezerwacji..." />
+            <marker date="1453459029670" expanded="true" signature="11849:11896" placeholder="INSERT INTO Szczegoly_rezerwacji..." />
+            <marker date="1453459029670" expanded="true" signature="11927:11972" placeholder="INSERT INTO Szczegoly_rezerwacji..." />
+            <marker date="1453459029670" expanded="true" signature="12006:12051" placeholder="INSERT INTO Warsztat_uczestnik..." />
+            <marker date="1453459029670" expanded="true" signature="12075:12120" placeholder="INSERT INTO Warsztat_uczestnik..." />
+            <marker date="1453459029670" expanded="true" signature="12151:12194" placeholder="INSERT INTO Warsztat_uczestnik..." />
+            <marker date="1453459029670" expanded="true" signature="12218:12259" placeholder="INSERT INTO Rezerwacje_dni..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/a.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="7" column="88" selection-start-line="7" selection-start-column="88" selection-end-line="7" selection-end-column="88" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/main.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="53" column="34" selection-start-line="53" selection-start-column="34" selection-end-line="53" selection-end-column="34" />
+          <folding>
+            <marker date="1453476457230" expanded="true" signature="228:253" placeholder="DROP TABLE R..." />
+            <marker date="1453476457230" expanded="true" signature="262:291" placeholder="DROP TABLE W..." />
+            <marker date="1453476457230" expanded="true" signature="300:331" placeholder="DROP TABLE S..." />
+            <marker date="1453476457230" expanded="true" signature="340:370" placeholder="DROP TABLE R..." />
+            <marker date="1453476457230" expanded="true" signature="379:396" placeholder="DROP TABLE O..." />
+            <marker date="1453476457230" expanded="true" signature="405:426" placeholder="DROP TABLE R..." />
+            <marker date="1453476457230" expanded="true" signature="435:455" placeholder="DROP TABLE U..." />
+            <marker date="1453476457230" expanded="true" signature="464:480" placeholder="DROP TABLE F..." />
+            <marker date="1453476457230" expanded="true" signature="489:509" placeholder="DROP TABLE W..." />
+            <marker date="1453476457230" expanded="true" signature="518:544" placeholder="DROP TABLE D..." />
+            <marker date="1453476457230" expanded="true" signature="553:575" placeholder="DROP TABLE K..." />
+            <marker date="1453476457230" expanded="true" signature="584:607" placeholder="DROP TABLE C..." />
+            <marker date="1453476457230" expanded="true" signature="614:630" placeholder="DROP TABLE F..." />
+            <marker date="1453476457230" expanded="true" signature="638:776" placeholder="CREATE TABLE..Firma..." />
+            <marker date="1453476457230" expanded="true" signature="811:1132" placeholder="CREATE TABLE..Uczestnik..." />
+            <marker date="1453476457230" expanded="true" signature="1166:1467" placeholder="CREATE TABLE..Konferencja..." />
+            <marker date="1453476457230" expanded="true" signature="1501:1788" placeholder="CREATE TABLE..Dni_Konferencji..." />
+            <marker date="1453476457230" expanded="true" signature="1823:1990" placeholder="CREATE TABLE..Cenny..." />
+            <marker date="1453476457230" expanded="true" signature="2023:2369" placeholder="CREATE TABLE..Warsztaty..." />
+            <marker date="1453476457230" expanded="true" signature="2403:2749" placeholder="CREATE TABLE..Rezerwacje..." />
+            <marker date="1453476457230" expanded="true" signature="2783:2979" placeholder="CREATE TABLE..Opłaty..." />
+            <marker date="1453476457230" expanded="true" signature="3012:3291" placeholder="CREATE TABLE..Rezerwacje..." />
+            <marker date="1453476457230" expanded="true" signature="3325:3479" placeholder="CREATE TABLE..Szczególy_rezerwacji..." />
+            <marker date="1453476457230" expanded="true" signature="3513:3672" placeholder="CREATE TABLE..Warsztat_uczestnik..." />
+            <marker date="1453476457230" expanded="true" signature="3706:3868" placeholder="CREATE TABLE..Szczegoly_rezerwacji..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/triggers.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="19" column="7" selection-start-line="19" selection-start-column="7" selection-end-line="19" selection-end-column="7" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/generator.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="e#0#14#0" expanded="true" />
+            <marker date="1453459029670" expanded="true" signature="515:549" placeholder="INSERT INTO Firma..." />
+            <marker date="1453459029670" expanded="true" signature="1197:1227" placeholder="INSERT INTO Uczestnik..." />
+            <marker date="1453459029670" expanded="true" signature="1197:1245" placeholder="INSERT INTO Uczestnik..." />
+            <marker date="1453459029670" expanded="true" signature="2262:2312" placeholder="INSERT INTO Konferencja..." />
+            <marker date="1453459029670" expanded="true" signature="2650:2698" placeholder="INSERT INTO Dni_Konferencji..." />
+            <marker date="1453459029670" expanded="true" signature="2840:2890" placeholder="INSERT INTO Konferencja..." />
+            <marker date="1453459029670" expanded="true" signature="3228:3276" placeholder="INSERT INTO Dni_Konferencji..." />
+            <marker date="1453459029670" expanded="true" signature="3415:3465" placeholder="INSERT INTO Konferencja..." />
+            <marker date="1453459029670" expanded="true" signature="3803:3851" placeholder="INSERT INTO Dni_Konferencji..." />
+            <marker date="1453459029670" expanded="true" signature="3991:4041" placeholder="INSERT INTO Konferencja..." />
+            <marker date="1453459029670" expanded="true" signature="4379:4427" placeholder="INSERT INTO Dni_Konferencji..." />
+            <marker date="1453459029670" expanded="true" signature="4588:4641" placeholder="INSERT INTO Progi_Cenowe..." />
+            <marker date="1453459029670" expanded="true" signature="5182:5227" placeholder="INSERT INTO Warsztaty..." />
+            <marker date="1453459029670" expanded="true" signature="7263:7309" placeholder="INSERT INTO Rezerwacje..." />
+            <marker date="1453459029670" expanded="true" signature="7263:7398" placeholder="INSERT INTO Rezerwacje..." />
+            <marker date="1453459029670" expanded="true" signature="7451:7497" placeholder="INSERT INTO Rezerwacje..." />
+            <marker date="1453459029670" expanded="true" signature="7682:7729" placeholder="INSERT INTO Szczegoly_rezerwacji..." />
+            <marker date="1453459029670" expanded="true" signature="8061:8102" placeholder="INSERT INTO Rezerwacje_dni..." />
+            <marker date="1453459029670" expanded="true" signature="9223:9272" placeholder="INSERT INTO Rezerwacje_warsztat..." />
+            <marker date="1453459029670" expanded="true" signature="9521:9566" placeholder="INSERT INTO Warsztat_uczestnik..." />
+            <marker date="1453459029670" expanded="true" signature="10226:10275" placeholder="INSERT INTO Rezerwacje_warsztat..." />
+            <marker date="1453459029670" expanded="true" signature="10508:10553" placeholder="INSERT INTO Warsztat_uczestnik..." />
+            <marker date="1453459029670" expanded="true" signature="10739:10781" placeholder="INSERT INTO Opłaty..." />
+            <marker date="1453459029670" expanded="true" signature="10920:10968" placeholder="INSERT INTO Opłaty..." />
+            <marker date="1453459029670" expanded="true" signature="10987:11034" placeholder="INSERT INTO Opłaty..." />
+            <marker date="1453459029670" expanded="true" signature="11054:11105" placeholder="INSERT INTO Rezerwacje..." />
+            <marker date="1453459029670" expanded="true" signature="11124:11175" placeholder="INSERT INTO Rezerwacje..." />
+            <marker date="1453459029670" expanded="true" signature="11194:11248" placeholder="INSERT INTO Rezerwacje..." />
+            <marker date="1453459029670" expanded="true" signature="11268:11318" placeholder="INSERT INTO Rezerwacje_warsztat..." />
+            <marker date="1453459029670" expanded="true" signature="11337:11387" placeholder="INSERT INTO Rezerwacje_warsztat..." />
+            <marker date="1453459029670" expanded="true" signature="11406:11455" placeholder="INSERT INTO Rezerwacje_warsztat..." />
+            <marker date="1453459029670" expanded="true" signature="11489:11538" placeholder="SELECT IDUcz..Uczestnik..." />
+            <marker date="1453459029670" expanded="true" signature="11633:11688" placeholder="SELECT IDUcz..Uczestnik..." />
+            <marker date="1453459029670" expanded="true" signature="11778:11825" placeholder="INSERT INTO Szczegoly_rezerwacji..." />
+            <marker date="1453459029670" expanded="true" signature="11849:11896" placeholder="INSERT INTO Szczegoly_rezerwacji..." />
+            <marker date="1453459029670" expanded="true" signature="11927:11972" placeholder="INSERT INTO Szczegoly_rezerwacji..." />
+            <marker date="1453459029670" expanded="true" signature="12006:12051" placeholder="INSERT INTO Warsztat_uczestnik..." />
+            <marker date="1453459029670" expanded="true" signature="12075:12120" placeholder="INSERT INTO Warsztat_uczestnik..." />
+            <marker date="1453459029670" expanded="true" signature="12151:12194" placeholder="INSERT INTO Warsztat_uczestnik..." />
+            <marker date="1453459029670" expanded="true" signature="12218:12259" placeholder="INSERT INTO Rezerwacje_dni..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/a.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="7" column="88" selection-start-line="7" selection-start-column="88" selection-end-line="7" selection-end-column="88" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/main.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="104" column="29" selection-start-line="104" selection-start-column="29" selection-end-line="104" selection-end-column="29" />
+          <folding>
+            <marker date="1453476457230" expanded="true" signature="228:253" placeholder="DROP TABLE R..." />
+            <marker date="1453476457230" expanded="true" signature="262:291" placeholder="DROP TABLE W..." />
+            <marker date="1453476457230" expanded="true" signature="300:331" placeholder="DROP TABLE S..." />
+            <marker date="1453476457230" expanded="true" signature="340:370" placeholder="DROP TABLE R..." />
+            <marker date="1453476457230" expanded="true" signature="379:396" placeholder="DROP TABLE O..." />
+            <marker date="1453476457230" expanded="true" signature="405:426" placeholder="DROP TABLE R..." />
+            <marker date="1453476457230" expanded="true" signature="435:455" placeholder="DROP TABLE U..." />
+            <marker date="1453476457230" expanded="true" signature="464:480" placeholder="DROP TABLE F..." />
+            <marker date="1453476457230" expanded="true" signature="489:509" placeholder="DROP TABLE W..." />
+            <marker date="1453476457230" expanded="true" signature="518:544" placeholder="DROP TABLE D..." />
+            <marker date="1453476457230" expanded="true" signature="553:575" placeholder="DROP TABLE K..." />
+            <marker date="1453476457230" expanded="true" signature="584:607" placeholder="DROP TABLE C..." />
+            <marker date="1453476457230" expanded="true" signature="614:630" placeholder="DROP TABLE F..." />
+            <marker date="1453476457230" expanded="true" signature="638:776" placeholder="CREATE TABLE..Firma..." />
+            <marker date="1453476457230" expanded="true" signature="811:1132" placeholder="CREATE TABLE..Uczestnik..." />
+            <marker date="1453476457230" expanded="true" signature="1166:1467" placeholder="CREATE TABLE..Konferencja..." />
+            <marker date="1453476457230" expanded="true" signature="1501:1788" placeholder="CREATE TABLE..Dni_Konferencji..." />
+            <marker date="1453476457230" expanded="true" signature="1823:1990" placeholder="CREATE TABLE..Cenny..." />
+            <marker date="1453476457230" expanded="true" signature="2023:2369" placeholder="CREATE TABLE..Warsztaty..." />
+            <marker date="1453476457230" expanded="true" signature="2403:2749" placeholder="CREATE TABLE..Rezerwacje..." />
+            <marker date="1453476457230" expanded="true" signature="2783:2979" placeholder="CREATE TABLE..Opłaty..." />
+            <marker date="1453476457230" expanded="true" signature="3012:3291" placeholder="CREATE TABLE..Rezerwacje..." />
+            <marker date="1453476457230" expanded="true" signature="3325:3479" placeholder="CREATE TABLE..Szczególy_rezerwacji..." />
+            <marker date="1453476457230" expanded="true" signature="3513:3672" placeholder="CREATE TABLE..Warsztat_uczestnik..." />
+            <marker date="1453476457230" expanded="true" signature="3706:3868" placeholder="CREATE TABLE..Szczegoly_rezerwacji..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/triggers.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="19" column="7" selection-start-line="19" selection-start-column="7" selection-end-line="19" selection-end-column="7" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/generator.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="e#0#14#0" expanded="true" />
+            <marker date="1453459029670" expanded="true" signature="515:549" placeholder="INSERT INTO Firma..." />
+            <marker date="1453459029670" expanded="true" signature="1197:1227" placeholder="INSERT INTO Uczestnik..." />
+            <marker date="1453459029670" expanded="true" signature="1197:1245" placeholder="INSERT INTO Uczestnik..." />
+            <marker date="1453459029670" expanded="true" signature="2262:2312" placeholder="INSERT INTO Konferencja..." />
+            <marker date="1453459029670" expanded="true" signature="2650:2698" placeholder="INSERT INTO Dni_Konferencji..." />
+            <marker date="1453459029670" expanded="true" signature="2840:2890" placeholder="INSERT INTO Konferencja..." />
+            <marker date="1453459029670" expanded="true" signature="3228:3276" placeholder="INSERT INTO Dni_Konferencji..." />
+            <marker date="1453459029670" expanded="true" signature="3415:3465" placeholder="INSERT INTO Konferencja..." />
+            <marker date="1453459029670" expanded="true" signature="3803:3851" placeholder="INSERT INTO Dni_Konferencji..." />
+            <marker date="1453459029670" expanded="true" signature="3991:4041" placeholder="INSERT INTO Konferencja..." />
+            <marker date="1453459029670" expanded="true" signature="4379:4427" placeholder="INSERT INTO Dni_Konferencji..." />
+            <marker date="1453459029670" expanded="true" signature="4588:4641" placeholder="INSERT INTO Progi_Cenowe..." />
+            <marker date="1453459029670" expanded="true" signature="5182:5227" placeholder="INSERT INTO Warsztaty..." />
+            <marker date="1453459029670" expanded="true" signature="7263:7309" placeholder="INSERT INTO Rezerwacje..." />
+            <marker date="1453459029670" expanded="true" signature="7263:7398" placeholder="INSERT INTO Rezerwacje..." />
+            <marker date="1453459029670" expanded="true" signature="7451:7497" placeholder="INSERT INTO Rezerwacje..." />
+            <marker date="1453459029670" expanded="true" signature="7682:7729" placeholder="INSERT INTO Szczegoly_rezerwacji..." />
+            <marker date="1453459029670" expanded="true" signature="8061:8102" placeholder="INSERT INTO Rezerwacje_dni..." />
+            <marker date="1453459029670" expanded="true" signature="9223:9272" placeholder="INSERT INTO Rezerwacje_warsztat..." />
+            <marker date="1453459029670" expanded="true" signature="9521:9566" placeholder="INSERT INTO Warsztat_uczestnik..." />
+            <marker date="1453459029670" expanded="true" signature="10226:10275" placeholder="INSERT INTO Rezerwacje_warsztat..." />
+            <marker date="1453459029670" expanded="true" signature="10508:10553" placeholder="INSERT INTO Warsztat_uczestnik..." />
+            <marker date="1453459029670" expanded="true" signature="10739:10781" placeholder="INSERT INTO Opłaty..." />
+            <marker date="1453459029670" expanded="true" signature="10920:10968" placeholder="INSERT INTO Opłaty..." />
+            <marker date="1453459029670" expanded="true" signature="10987:11034" placeholder="INSERT INTO Opłaty..." />
+            <marker date="1453459029670" expanded="true" signature="11054:11105" placeholder="INSERT INTO Rezerwacje..." />
+            <marker date="1453459029670" expanded="true" signature="11124:11175" placeholder="INSERT INTO Rezerwacje..." />
+            <marker date="1453459029670" expanded="true" signature="11194:11248" placeholder="INSERT INTO Rezerwacje..." />
+            <marker date="1453459029670" expanded="true" signature="11268:11318" placeholder="INSERT INTO Rezerwacje_warsztat..." />
+            <marker date="1453459029670" expanded="true" signature="11337:11387" placeholder="INSERT INTO Rezerwacje_warsztat..." />
+            <marker date="1453459029670" expanded="true" signature="11406:11455" placeholder="INSERT INTO Rezerwacje_warsztat..." />
+            <marker date="1453459029670" expanded="true" signature="11489:11538" placeholder="SELECT IDUcz..Uczestnik..." />
+            <marker date="1453459029670" expanded="true" signature="11633:11688" placeholder="SELECT IDUcz..Uczestnik..." />
+            <marker date="1453459029670" expanded="true" signature="11778:11825" placeholder="INSERT INTO Szczegoly_rezerwacji..." />
+            <marker date="1453459029670" expanded="true" signature="11849:11896" placeholder="INSERT INTO Szczegoly_rezerwacji..." />
+            <marker date="1453459029670" expanded="true" signature="11927:11972" placeholder="INSERT INTO Szczegoly_rezerwacji..." />
+            <marker date="1453459029670" expanded="true" signature="12006:12051" placeholder="INSERT INTO Warsztat_uczestnik..." />
+            <marker date="1453459029670" expanded="true" signature="12075:12120" placeholder="INSERT INTO Warsztat_uczestnik..." />
+            <marker date="1453459029670" expanded="true" signature="12151:12194" placeholder="INSERT INTO Warsztat_uczestnik..." />
+            <marker date="1453459029670" expanded="true" signature="12218:12259" placeholder="INSERT INTO Rezerwacje_dni..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/a.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="7" column="88" selection-start-line="7" selection-start-column="88" selection-end-line="7" selection-end-column="88" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/main.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <marker date="1453476457230" expanded="true" signature="228:253" placeholder="DROP TABLE R..." />
+            <marker date="1453476457230" expanded="true" signature="262:291" placeholder="DROP TABLE W..." />
+            <marker date="1453476457230" expanded="true" signature="300:331" placeholder="DROP TABLE S..." />
+            <marker date="1453476457230" expanded="true" signature="340:370" placeholder="DROP TABLE R..." />
+            <marker date="1453476457230" expanded="true" signature="379:396" placeholder="DROP TABLE O..." />
+            <marker date="1453476457230" expanded="true" signature="405:426" placeholder="DROP TABLE R..." />
+            <marker date="1453476457230" expanded="true" signature="435:455" placeholder="DROP TABLE U..." />
+            <marker date="1453476457230" expanded="true" signature="464:480" placeholder="DROP TABLE F..." />
+            <marker date="1453476457230" expanded="true" signature="489:509" placeholder="DROP TABLE W..." />
+            <marker date="1453476457230" expanded="true" signature="518:544" placeholder="DROP TABLE D..." />
+            <marker date="1453476457230" expanded="true" signature="553:575" placeholder="DROP TABLE K..." />
+            <marker date="1453476457230" expanded="true" signature="584:607" placeholder="DROP TABLE C..." />
+            <marker date="1453476457230" expanded="true" signature="614:630" placeholder="DROP TABLE F..." />
+            <marker date="1453476457230" expanded="true" signature="638:776" placeholder="CREATE TABLE..Firma..." />
+            <marker date="1453476457230" expanded="true" signature="811:1132" placeholder="CREATE TABLE..Uczestnik..." />
+            <marker date="1453476457230" expanded="true" signature="1166:1467" placeholder="CREATE TABLE..Konferencja..." />
+            <marker date="1453476457230" expanded="true" signature="1501:1788" placeholder="CREATE TABLE..Dni_Konferencji..." />
+            <marker date="1453476457230" expanded="true" signature="1823:1990" placeholder="CREATE TABLE..Cenny..." />
+            <marker date="1453476457230" expanded="true" signature="2023:2369" placeholder="CREATE TABLE..Warsztaty..." />
+            <marker date="1453476457230" expanded="true" signature="2403:2749" placeholder="CREATE TABLE..Rezerwacje..." />
+            <marker date="1453476457230" expanded="true" signature="2783:2979" placeholder="CREATE TABLE..Opłaty..." />
+            <marker date="1453476457230" expanded="true" signature="3012:3291" placeholder="CREATE TABLE..Rezerwacje..." />
+            <marker date="1453476457230" expanded="true" signature="3325:3479" placeholder="CREATE TABLE..Szczególy_rezerwacji..." />
+            <marker date="1453476457230" expanded="true" signature="3513:3672" placeholder="CREATE TABLE..Warsztat_uczestnik..." />
+            <marker date="1453476457230" expanded="true" signature="3706:3868" placeholder="CREATE TABLE..Szczegoly_rezerwacji..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/triggers.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="19" column="7" selection-start-line="19" selection-start-column="7" selection-end-line="19" selection-end-column="7" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/generator.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="3" column="36" selection-start-line="3" selection-start-column="36" selection-end-line="3" selection-end-column="36" />
+          <folding>
+            <element signature="e#0#14#0" expanded="true" />
+            <marker date="1453459029670" expanded="true" signature="515:549" placeholder="INSERT INTO Firma..." />
+            <marker date="1453459029670" expanded="true" signature="1197:1227" placeholder="INSERT INTO Uczestnik..." />
+            <marker date="1453459029670" expanded="true" signature="1197:1245" placeholder="INSERT INTO Uczestnik..." />
+            <marker date="1453459029670" expanded="true" signature="2262:2312" placeholder="INSERT INTO Konferencja..." />
+            <marker date="1453459029670" expanded="true" signature="2650:2698" placeholder="INSERT INTO Dni_Konferencji..." />
+            <marker date="1453459029670" expanded="true" signature="2840:2890" placeholder="INSERT INTO Konferencja..." />
+            <marker date="1453459029670" expanded="true" signature="3228:3276" placeholder="INSERT INTO Dni_Konferencji..." />
+            <marker date="1453459029670" expanded="true" signature="3415:3465" placeholder="INSERT INTO Konferencja..." />
+            <marker date="1453459029670" expanded="true" signature="3803:3851" placeholder="INSERT INTO Dni_Konferencji..." />
+            <marker date="1453459029670" expanded="true" signature="3991:4041" placeholder="INSERT INTO Konferencja..." />
+            <marker date="1453459029670" expanded="true" signature="4379:4427" placeholder="INSERT INTO Dni_Konferencji..." />
+            <marker date="1453459029670" expanded="true" signature="4588:4641" placeholder="INSERT INTO Progi_Cenowe..." />
+            <marker date="1453459029670" expanded="true" signature="5182:5227" placeholder="INSERT INTO Warsztaty..." />
+            <marker date="1453459029670" expanded="true" signature="7263:7309" placeholder="INSERT INTO Rezerwacje..." />
+            <marker date="1453459029670" expanded="true" signature="7263:7398" placeholder="INSERT INTO Rezerwacje..." />
+            <marker date="1453459029670" expanded="true" signature="7451:7497" placeholder="INSERT INTO Rezerwacje..." />
+            <marker date="1453459029670" expanded="true" signature="7682:7729" placeholder="INSERT INTO Szczegoly_rezerwacji..." />
+            <marker date="1453459029670" expanded="true" signature="8061:8102" placeholder="INSERT INTO Rezerwacje_dni..." />
+            <marker date="1453459029670" expanded="true" signature="9223:9272" placeholder="INSERT INTO Rezerwacje_warsztat..." />
+            <marker date="1453459029670" expanded="true" signature="9521:9566" placeholder="INSERT INTO Warsztat_uczestnik..." />
+            <marker date="1453459029670" expanded="true" signature="10226:10275" placeholder="INSERT INTO Rezerwacje_warsztat..." />
+            <marker date="1453459029670" expanded="true" signature="10508:10553" placeholder="INSERT INTO Warsztat_uczestnik..." />
+            <marker date="1453459029670" expanded="true" signature="10739:10781" placeholder="INSERT INTO Opłaty..." />
+            <marker date="1453459029670" expanded="true" signature="10920:10968" placeholder="INSERT INTO Opłaty..." />
+            <marker date="1453459029670" expanded="true" signature="10987:11034" placeholder="INSERT INTO Opłaty..." />
+            <marker date="1453459029670" expanded="true" signature="11054:11105" placeholder="INSERT INTO Rezerwacje..." />
+            <marker date="1453459029670" expanded="true" signature="11124:11175" placeholder="INSERT INTO Rezerwacje..." />
+            <marker date="1453459029670" expanded="true" signature="11194:11248" placeholder="INSERT INTO Rezerwacje..." />
+            <marker date="1453459029670" expanded="true" signature="11268:11318" placeholder="INSERT INTO Rezerwacje_warsztat..." />
+            <marker date="1453459029670" expanded="true" signature="11337:11387" placeholder="INSERT INTO Rezerwacje_warsztat..." />
+            <marker date="1453459029670" expanded="true" signature="11406:11455" placeholder="INSERT INTO Rezerwacje_warsztat..." />
+            <marker date="1453459029670" expanded="true" signature="11489:11538" placeholder="SELECT IDUcz..Uczestnik..." />
+            <marker date="1453459029670" expanded="true" signature="11633:11688" placeholder="SELECT IDUcz..Uczestnik..." />
+            <marker date="1453459029670" expanded="true" signature="11778:11825" placeholder="INSERT INTO Szczegoly_rezerwacji..." />
+            <marker date="1453459029670" expanded="true" signature="11849:11896" placeholder="INSERT INTO Szczegoly_rezerwacji..." />
+            <marker date="1453459029670" expanded="true" signature="11927:11972" placeholder="INSERT INTO Szczegoly_rezerwacji..." />
+            <marker date="1453459029670" expanded="true" signature="12006:12051" placeholder="INSERT INTO Warsztat_uczestnik..." />
+            <marker date="1453459029670" expanded="true" signature="12075:12120" placeholder="INSERT INTO Warsztat_uczestnik..." />
+            <marker date="1453459029670" expanded="true" signature="12151:12194" placeholder="INSERT INTO Warsztat_uczestnik..." />
+            <marker date="1453459029670" expanded="true" signature="12218:12259" placeholder="INSERT INTO Rezerwacje_dni..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/main.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <marker date="1453476457230" expanded="true" signature="228:253" placeholder="DROP TABLE R..." />
+            <marker date="1453476457230" expanded="true" signature="262:291" placeholder="DROP TABLE W..." />
+            <marker date="1453476457230" expanded="true" signature="300:331" placeholder="DROP TABLE S..." />
+            <marker date="1453476457230" expanded="true" signature="340:370" placeholder="DROP TABLE R..." />
+            <marker date="1453476457230" expanded="true" signature="379:396" placeholder="DROP TABLE O..." />
+            <marker date="1453476457230" expanded="true" signature="405:426" placeholder="DROP TABLE R..." />
+            <marker date="1453476457230" expanded="true" signature="435:455" placeholder="DROP TABLE U..." />
+            <marker date="1453476457230" expanded="true" signature="464:480" placeholder="DROP TABLE F..." />
+            <marker date="1453476457230" expanded="true" signature="489:509" placeholder="DROP TABLE W..." />
+            <marker date="1453476457230" expanded="true" signature="518:544" placeholder="DROP TABLE D..." />
+            <marker date="1453476457230" expanded="true" signature="553:575" placeholder="DROP TABLE K..." />
+            <marker date="1453476457230" expanded="true" signature="584:607" placeholder="DROP TABLE C..." />
+            <marker date="1453476457230" expanded="true" signature="614:630" placeholder="DROP TABLE F..." />
+            <marker date="1453476457230" expanded="true" signature="638:776" placeholder="CREATE TABLE..Firma..." />
+            <marker date="1453476457230" expanded="true" signature="811:1132" placeholder="CREATE TABLE..Uczestnik..." />
+            <marker date="1453476457230" expanded="true" signature="1166:1467" placeholder="CREATE TABLE..Konferencja..." />
+            <marker date="1453476457230" expanded="true" signature="1501:1788" placeholder="CREATE TABLE..Dni_Konferencji..." />
+            <marker date="1453476457230" expanded="true" signature="1823:1990" placeholder="CREATE TABLE..Cenny..." />
+            <marker date="1453476457230" expanded="true" signature="2023:2369" placeholder="CREATE TABLE..Warsztaty..." />
+            <marker date="1453476457230" expanded="true" signature="2403:2749" placeholder="CREATE TABLE..Rezerwacje..." />
+            <marker date="1453476457230" expanded="true" signature="2783:2979" placeholder="CREATE TABLE..Opłaty..." />
+            <marker date="1453476457230" expanded="true" signature="3012:3291" placeholder="CREATE TABLE..Rezerwacje..." />
+            <marker date="1453476457230" expanded="true" signature="3325:3479" placeholder="CREATE TABLE..Szczególy_rezerwacji..." />
+            <marker date="1453476457230" expanded="true" signature="3513:3672" placeholder="CREATE TABLE..Warsztat_uczestnik..." />
+            <marker date="1453476457230" expanded="true" signature="3706:3868" placeholder="CREATE TABLE..Szczegoly_rezerwacji..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/main.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <marker date="1453476457230" expanded="true" signature="228:253" placeholder="DROP TABLE R..." />
+            <marker date="1453476457230" expanded="true" signature="262:291" placeholder="DROP TABLE W..." />
+            <marker date="1453476457230" expanded="true" signature="300:331" placeholder="DROP TABLE S..." />
+            <marker date="1453476457230" expanded="true" signature="340:370" placeholder="DROP TABLE R..." />
+            <marker date="1453476457230" expanded="true" signature="379:396" placeholder="DROP TABLE O..." />
+            <marker date="1453476457230" expanded="true" signature="405:426" placeholder="DROP TABLE R..." />
+            <marker date="1453476457230" expanded="true" signature="435:455" placeholder="DROP TABLE U..." />
+            <marker date="1453476457230" expanded="true" signature="464:480" placeholder="DROP TABLE F..." />
+            <marker date="1453476457230" expanded="true" signature="489:509" placeholder="DROP TABLE W..." />
+            <marker date="1453476457230" expanded="true" signature="518:544" placeholder="DROP TABLE D..." />
+            <marker date="1453476457230" expanded="true" signature="553:575" placeholder="DROP TABLE K..." />
+            <marker date="1453476457230" expanded="true" signature="584:607" placeholder="DROP TABLE C..." />
+            <marker date="1453476457230" expanded="true" signature="614:630" placeholder="DROP TABLE F..." />
+            <marker date="1453476457230" expanded="true" signature="638:776" placeholder="CREATE TABLE..Firma..." />
+            <marker date="1453476457230" expanded="true" signature="811:1132" placeholder="CREATE TABLE..Uczestnik..." />
+            <marker date="1453476457230" expanded="true" signature="1166:1467" placeholder="CREATE TABLE..Konferencja..." />
+            <marker date="1453476457230" expanded="true" signature="1501:1788" placeholder="CREATE TABLE..Dni_Konferencji..." />
+            <marker date="1453476457230" expanded="true" signature="1823:1990" placeholder="CREATE TABLE..Cenny..." />
+            <marker date="1453476457230" expanded="true" signature="2023:2369" placeholder="CREATE TABLE..Warsztaty..." />
+            <marker date="1453476457230" expanded="true" signature="2403:2749" placeholder="CREATE TABLE..Rezerwacje..." />
+            <marker date="1453476457230" expanded="true" signature="2783:2979" placeholder="CREATE TABLE..Opłaty..." />
+            <marker date="1453476457230" expanded="true" signature="3012:3291" placeholder="CREATE TABLE..Rezerwacje..." />
+            <marker date="1453476457230" expanded="true" signature="3325:3479" placeholder="CREATE TABLE..Szczególy_rezerwacji..." />
+            <marker date="1453476457230" expanded="true" signature="3513:3672" placeholder="CREATE TABLE..Warsztat_uczestnik..." />
+            <marker date="1453476457230" expanded="true" signature="3706:3868" placeholder="CREATE TABLE..Szczegoly_rezerwacji..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/main.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <marker date="1453476457230" expanded="true" signature="228:253" placeholder="DROP TABLE R..." />
+            <marker date="1453476457230" expanded="true" signature="262:291" placeholder="DROP TABLE W..." />
+            <marker date="1453476457230" expanded="true" signature="300:331" placeholder="DROP TABLE S..." />
+            <marker date="1453476457230" expanded="true" signature="340:370" placeholder="DROP TABLE R..." />
+            <marker date="1453476457230" expanded="true" signature="379:396" placeholder="DROP TABLE O..." />
+            <marker date="1453476457230" expanded="true" signature="405:426" placeholder="DROP TABLE R..." />
+            <marker date="1453476457230" expanded="true" signature="435:455" placeholder="DROP TABLE U..." />
+            <marker date="1453476457230" expanded="true" signature="464:480" placeholder="DROP TABLE F..." />
+            <marker date="1453476457230" expanded="true" signature="489:509" placeholder="DROP TABLE W..." />
+            <marker date="1453476457230" expanded="true" signature="518:544" placeholder="DROP TABLE D..." />
+            <marker date="1453476457230" expanded="true" signature="553:575" placeholder="DROP TABLE K..." />
+            <marker date="1453476457230" expanded="true" signature="584:607" placeholder="DROP TABLE C..." />
+            <marker date="1453476457230" expanded="true" signature="614:630" placeholder="DROP TABLE F..." />
+            <marker date="1453476457230" expanded="true" signature="638:776" placeholder="CREATE TABLE..Firma..." />
+            <marker date="1453476457230" expanded="true" signature="811:1132" placeholder="CREATE TABLE..Uczestnik..." />
+            <marker date="1453476457230" expanded="true" signature="1166:1467" placeholder="CREATE TABLE..Konferencja..." />
+            <marker date="1453476457230" expanded="true" signature="1501:1788" placeholder="CREATE TABLE..Dni_Konferencji..." />
+            <marker date="1453476457230" expanded="true" signature="1823:1990" placeholder="CREATE TABLE..Cenny..." />
+            <marker date="1453476457230" expanded="true" signature="2023:2369" placeholder="CREATE TABLE..Warsztaty..." />
+            <marker date="1453476457230" expanded="true" signature="2403:2749" placeholder="CREATE TABLE..Rezerwacje..." />
+            <marker date="1453476457230" expanded="true" signature="2783:2979" placeholder="CREATE TABLE..Opłaty..." />
+            <marker date="1453476457230" expanded="true" signature="3012:3291" placeholder="CREATE TABLE..Rezerwacje..." />
+            <marker date="1453476457230" expanded="true" signature="3325:3479" placeholder="CREATE TABLE..Szczególy_rezerwacji..." />
+            <marker date="1453476457230" expanded="true" signature="3513:3672" placeholder="CREATE TABLE..Warsztat_uczestnik..." />
+            <marker date="1453476457230" expanded="true" signature="3706:3868" placeholder="CREATE TABLE..Szczegoly_rezerwacji..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/main.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <marker date="1453476457230" expanded="true" signature="228:253" placeholder="DROP TABLE R..." />
+            <marker date="1453476457230" expanded="true" signature="262:291" placeholder="DROP TABLE W..." />
+            <marker date="1453476457230" expanded="true" signature="300:331" placeholder="DROP TABLE S..." />
+            <marker date="1453476457230" expanded="true" signature="340:370" placeholder="DROP TABLE R..." />
+            <marker date="1453476457230" expanded="true" signature="379:396" placeholder="DROP TABLE O..." />
+            <marker date="1453476457230" expanded="true" signature="405:426" placeholder="DROP TABLE R..." />
+            <marker date="1453476457230" expanded="true" signature="435:455" placeholder="DROP TABLE U..." />
+            <marker date="1453476457230" expanded="true" signature="464:480" placeholder="DROP TABLE F..." />
+            <marker date="1453476457230" expanded="true" signature="489:509" placeholder="DROP TABLE W..." />
+            <marker date="1453476457230" expanded="true" signature="518:544" placeholder="DROP TABLE D..." />
+            <marker date="1453476457230" expanded="true" signature="553:575" placeholder="DROP TABLE K..." />
+            <marker date="1453476457230" expanded="true" signature="584:607" placeholder="DROP TABLE C..." />
+            <marker date="1453476457230" expanded="true" signature="614:630" placeholder="DROP TABLE F..." />
+            <marker date="1453476457230" expanded="true" signature="638:776" placeholder="CREATE TABLE..Firma..." />
+            <marker date="1453476457230" expanded="true" signature="811:1132" placeholder="CREATE TABLE..Uczestnik..." />
+            <marker date="1453476457230" expanded="true" signature="1166:1467" placeholder="CREATE TABLE..Konferencja..." />
+            <marker date="1453476457230" expanded="true" signature="1501:1788" placeholder="CREATE TABLE..Dni_Konferencji..." />
+            <marker date="1453476457230" expanded="true" signature="1823:1990" placeholder="CREATE TABLE..Cenny..." />
+            <marker date="1453476457230" expanded="true" signature="2023:2369" placeholder="CREATE TABLE..Warsztaty..." />
+            <marker date="1453476457230" expanded="true" signature="2403:2749" placeholder="CREATE TABLE..Rezerwacje..." />
+            <marker date="1453476457230" expanded="true" signature="2783:2979" placeholder="CREATE TABLE..Opłaty..." />
+            <marker date="1453476457230" expanded="true" signature="3012:3291" placeholder="CREATE TABLE..Rezerwacje..." />
+            <marker date="1453476457230" expanded="true" signature="3325:3479" placeholder="CREATE TABLE..Szczególy_rezerwacji..." />
+            <marker date="1453476457230" expanded="true" signature="3513:3672" placeholder="CREATE TABLE..Warsztat_uczestnik..." />
+            <marker date="1453476457230" expanded="true" signature="3706:3868" placeholder="CREATE TABLE..Szczegoly_rezerwacji..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/main.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <marker date="1453476457230" expanded="true" signature="228:253" placeholder="DROP TABLE R..." />
+            <marker date="1453476457230" expanded="true" signature="262:291" placeholder="DROP TABLE W..." />
+            <marker date="1453476457230" expanded="true" signature="300:331" placeholder="DROP TABLE S..." />
+            <marker date="1453476457230" expanded="true" signature="340:370" placeholder="DROP TABLE R..." />
+            <marker date="1453476457230" expanded="true" signature="379:396" placeholder="DROP TABLE O..." />
+            <marker date="1453476457230" expanded="true" signature="405:426" placeholder="DROP TABLE R..." />
+            <marker date="1453476457230" expanded="true" signature="435:455" placeholder="DROP TABLE U..." />
+            <marker date="1453476457230" expanded="true" signature="464:480" placeholder="DROP TABLE F..." />
+            <marker date="1453476457230" expanded="true" signature="489:509" placeholder="DROP TABLE W..." />
+            <marker date="1453476457230" expanded="true" signature="518:544" placeholder="DROP TABLE D..." />
+            <marker date="1453476457230" expanded="true" signature="553:575" placeholder="DROP TABLE K..." />
+            <marker date="1453476457230" expanded="true" signature="584:607" placeholder="DROP TABLE C..." />
+            <marker date="1453476457230" expanded="true" signature="614:630" placeholder="DROP TABLE F..." />
+            <marker date="1453476457230" expanded="true" signature="638:776" placeholder="CREATE TABLE..Firma..." />
+            <marker date="1453476457230" expanded="true" signature="811:1132" placeholder="CREATE TABLE..Uczestnik..." />
+            <marker date="1453476457230" expanded="true" signature="1166:1467" placeholder="CREATE TABLE..Konferencja..." />
+            <marker date="1453476457230" expanded="true" signature="1501:1788" placeholder="CREATE TABLE..Dni_Konferencji..." />
+            <marker date="1453476457230" expanded="true" signature="1823:1990" placeholder="CREATE TABLE..Cenny..." />
+            <marker date="1453476457230" expanded="true" signature="2023:2369" placeholder="CREATE TABLE..Warsztaty..." />
+            <marker date="1453476457230" expanded="true" signature="2403:2749" placeholder="CREATE TABLE..Rezerwacje..." />
+            <marker date="1453476457230" expanded="true" signature="2783:2979" placeholder="CREATE TABLE..Opłaty..." />
+            <marker date="1453476457230" expanded="true" signature="3012:3291" placeholder="CREATE TABLE..Rezerwacje..." />
+            <marker date="1453476457230" expanded="true" signature="3325:3479" placeholder="CREATE TABLE..Szczególy_rezerwacji..." />
+            <marker date="1453476457230" expanded="true" signature="3513:3672" placeholder="CREATE TABLE..Warsztat_uczestnik..." />
+            <marker date="1453476457230" expanded="true" signature="3706:3868" placeholder="CREATE TABLE..Szczegoly_rezerwacji..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/main.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <marker date="1453476457230" expanded="true" signature="228:253" placeholder="DROP TABLE R..." />
+            <marker date="1453476457230" expanded="true" signature="262:291" placeholder="DROP TABLE W..." />
+            <marker date="1453476457230" expanded="true" signature="300:331" placeholder="DROP TABLE S..." />
+            <marker date="1453476457230" expanded="true" signature="340:370" placeholder="DROP TABLE R..." />
+            <marker date="1453476457230" expanded="true" signature="379:396" placeholder="DROP TABLE O..." />
+            <marker date="1453476457230" expanded="true" signature="405:426" placeholder="DROP TABLE R..." />
+            <marker date="1453476457230" expanded="true" signature="435:455" placeholder="DROP TABLE U..." />
+            <marker date="1453476457230" expanded="true" signature="464:480" placeholder="DROP TABLE F..." />
+            <marker date="1453476457230" expanded="true" signature="489:509" placeholder="DROP TABLE W..." />
+            <marker date="1453476457230" expanded="true" signature="518:544" placeholder="DROP TABLE D..." />
+            <marker date="1453476457230" expanded="true" signature="553:575" placeholder="DROP TABLE K..." />
+            <marker date="1453476457230" expanded="true" signature="584:607" placeholder="DROP TABLE C..." />
+            <marker date="1453476457230" expanded="true" signature="614:630" placeholder="DROP TABLE F..." />
+            <marker date="1453476457230" expanded="true" signature="638:776" placeholder="CREATE TABLE..Firma..." />
+            <marker date="1453476457230" expanded="true" signature="811:1132" placeholder="CREATE TABLE..Uczestnik..." />
+            <marker date="1453476457230" expanded="true" signature="1166:1467" placeholder="CREATE TABLE..Konferencja..." />
+            <marker date="1453476457230" expanded="true" signature="1501:1788" placeholder="CREATE TABLE..Dni_Konferencji..." />
+            <marker date="1453476457230" expanded="true" signature="1823:1990" placeholder="CREATE TABLE..Cenny..." />
+            <marker date="1453476457230" expanded="true" signature="2023:2369" placeholder="CREATE TABLE..Warsztaty..." />
+            <marker date="1453476457230" expanded="true" signature="2403:2749" placeholder="CREATE TABLE..Rezerwacje..." />
+            <marker date="1453476457230" expanded="true" signature="2783:2979" placeholder="CREATE TABLE..Opłaty..." />
+            <marker date="1453476457230" expanded="true" signature="3012:3291" placeholder="CREATE TABLE..Rezerwacje..." />
+            <marker date="1453476457230" expanded="true" signature="3325:3479" placeholder="CREATE TABLE..Szczególy_rezerwacji..." />
+            <marker date="1453476457230" expanded="true" signature="3513:3672" placeholder="CREATE TABLE..Warsztat_uczestnik..." />
+            <marker date="1453476457230" expanded="true" signature="3706:3868" placeholder="CREATE TABLE..Szczegoly_rezerwacji..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/main.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="79" column="34" selection-start-line="79" selection-start-column="34" selection-end-line="79" selection-end-column="34" />
+          <folding>
+            <marker date="1453476457230" expanded="true" signature="228:253" placeholder="DROP TABLE R..." />
+            <marker date="1453476457230" expanded="true" signature="262:291" placeholder="DROP TABLE W..." />
+            <marker date="1453476457230" expanded="true" signature="300:331" placeholder="DROP TABLE S..." />
+            <marker date="1453476457230" expanded="true" signature="340:370" placeholder="DROP TABLE R..." />
+            <marker date="1453476457230" expanded="true" signature="379:396" placeholder="DROP TABLE O..." />
+            <marker date="1453476457230" expanded="true" signature="405:426" placeholder="DROP TABLE R..." />
+            <marker date="1453476457230" expanded="true" signature="435:455" placeholder="DROP TABLE U..." />
+            <marker date="1453476457230" expanded="true" signature="464:480" placeholder="DROP TABLE F..." />
+            <marker date="1453476457230" expanded="true" signature="489:509" placeholder="DROP TABLE W..." />
+            <marker date="1453476457230" expanded="true" signature="518:544" placeholder="DROP TABLE D..." />
+            <marker date="1453476457230" expanded="true" signature="553:575" placeholder="DROP TABLE K..." />
+            <marker date="1453476457230" expanded="true" signature="584:607" placeholder="DROP TABLE C..." />
+            <marker date="1453476457230" expanded="true" signature="614:630" placeholder="DROP TABLE F..." />
+            <marker date="1453476457230" expanded="true" signature="638:776" placeholder="CREATE TABLE..Firma..." />
+            <marker date="1453476457230" expanded="true" signature="811:1132" placeholder="CREATE TABLE..Uczestnik..." />
+            <marker date="1453476457230" expanded="true" signature="1166:1467" placeholder="CREATE TABLE..Konferencja..." />
+            <marker date="1453476457230" expanded="true" signature="1501:1788" placeholder="CREATE TABLE..Dni_Konferencji..." />
+            <marker date="1453476457230" expanded="true" signature="1823:1990" placeholder="CREATE TABLE..Cenny..." />
+            <marker date="1453476457230" expanded="true" signature="2023:2369" placeholder="CREATE TABLE..Warsztaty..." />
+            <marker date="1453476457230" expanded="true" signature="2403:2749" placeholder="CREATE TABLE..Rezerwacje..." />
+            <marker date="1453476457230" expanded="true" signature="2783:2979" placeholder="CREATE TABLE..Opłaty..." />
+            <marker date="1453476457230" expanded="true" signature="3012:3291" placeholder="CREATE TABLE..Rezerwacje..." />
+            <marker date="1453476457230" expanded="true" signature="3325:3479" placeholder="CREATE TABLE..Szczególy_rezerwacji..." />
+            <marker date="1453476457230" expanded="true" signature="3513:3672" placeholder="CREATE TABLE..Warsztat_uczestnik..." />
+            <marker date="1453476457230" expanded="true" signature="3706:3868" placeholder="CREATE TABLE..Szczegoly_rezerwacji..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/triggers.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="61" column="47" selection-start-line="61" selection-start-column="47" selection-end-line="61" selection-end-column="47" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/generator.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="6" column="0" selection-start-line="6" selection-start-column="0" selection-end-line="6" selection-end-column="0" />
+          <folding>
+            <element signature="e#0#14#0" expanded="true" />
+            <marker date="1453459029670" expanded="true" signature="515:549" placeholder="INSERT INTO Firma..." />
+            <marker date="1453459029670" expanded="true" signature="1197:1227" placeholder="INSERT INTO Uczestnik..." />
+            <marker date="1453459029670" expanded="true" signature="1197:1245" placeholder="INSERT INTO Uczestnik..." />
+            <marker date="1453459029670" expanded="true" signature="2262:2312" placeholder="INSERT INTO Konferencja..." />
+            <marker date="1453459029670" expanded="true" signature="2650:2698" placeholder="INSERT INTO Dni_Konferencji..." />
+            <marker date="1453459029670" expanded="true" signature="2840:2890" placeholder="INSERT INTO Konferencja..." />
+            <marker date="1453459029670" expanded="true" signature="3228:3276" placeholder="INSERT INTO Dni_Konferencji..." />
+            <marker date="1453459029670" expanded="true" signature="3415:3465" placeholder="INSERT INTO Konferencja..." />
+            <marker date="1453459029670" expanded="true" signature="3803:3851" placeholder="INSERT INTO Dni_Konferencji..." />
+            <marker date="1453459029670" expanded="true" signature="3991:4041" placeholder="INSERT INTO Konferencja..." />
+            <marker date="1453459029670" expanded="true" signature="4379:4427" placeholder="INSERT INTO Dni_Konferencji..." />
+            <marker date="1453459029670" expanded="true" signature="4588:4641" placeholder="INSERT INTO Progi_Cenowe..." />
+            <marker date="1453459029670" expanded="true" signature="5182:5227" placeholder="INSERT INTO Warsztaty..." />
+            <marker date="1453459029670" expanded="true" signature="7263:7309" placeholder="INSERT INTO Rezerwacje..." />
+            <marker date="1453459029670" expanded="true" signature="7263:7398" placeholder="INSERT INTO Rezerwacje..." />
+            <marker date="1453459029670" expanded="true" signature="7451:7497" placeholder="INSERT INTO Rezerwacje..." />
+            <marker date="1453459029670" expanded="true" signature="7682:7729" placeholder="INSERT INTO Szczegoly_rezerwacji..." />
+            <marker date="1453459029670" expanded="true" signature="8061:8102" placeholder="INSERT INTO Rezerwacje_dni..." />
+            <marker date="1453459029670" expanded="true" signature="9223:9272" placeholder="INSERT INTO Rezerwacje_warsztat..." />
+            <marker date="1453459029670" expanded="true" signature="9521:9566" placeholder="INSERT INTO Warsztat_uczestnik..." />
+            <marker date="1453459029670" expanded="true" signature="10226:10275" placeholder="INSERT INTO Rezerwacje_warsztat..." />
+            <marker date="1453459029670" expanded="true" signature="10508:10553" placeholder="INSERT INTO Warsztat_uczestnik..." />
+            <marker date="1453459029670" expanded="true" signature="10739:10781" placeholder="INSERT INTO Opłaty..." />
+            <marker date="1453459029670" expanded="true" signature="10920:10968" placeholder="INSERT INTO Opłaty..." />
+            <marker date="1453459029670" expanded="true" signature="10987:11034" placeholder="INSERT INTO Opłaty..." />
+            <marker date="1453459029670" expanded="true" signature="11054:11105" placeholder="INSERT INTO Rezerwacje..." />
+            <marker date="1453459029670" expanded="true" signature="11124:11175" placeholder="INSERT INTO Rezerwacje..." />
+            <marker date="1453459029670" expanded="true" signature="11194:11248" placeholder="INSERT INTO Rezerwacje..." />
+            <marker date="1453459029670" expanded="true" signature="11268:11318" placeholder="INSERT INTO Rezerwacje_warsztat..." />
+            <marker date="1453459029670" expanded="true" signature="11337:11387" placeholder="INSERT INTO Rezerwacje_warsztat..." />
+            <marker date="1453459029670" expanded="true" signature="11406:11455" placeholder="INSERT INTO Rezerwacje_warsztat..." />
+            <marker date="1453459029670" expanded="true" signature="11489:11538" placeholder="SELECT IDUcz..Uczestnik..." />
+            <marker date="1453459029670" expanded="true" signature="11633:11688" placeholder="SELECT IDUcz..Uczestnik..." />
+            <marker date="1453459029670" expanded="true" signature="11778:11825" placeholder="INSERT INTO Szczegoly_rezerwacji..." />
+            <marker date="1453459029670" expanded="true" signature="11849:11896" placeholder="INSERT INTO Szczegoly_rezerwacji..." />
+            <marker date="1453459029670" expanded="true" signature="11927:11972" placeholder="INSERT INTO Szczegoly_rezerwacji..." />
+            <marker date="1453459029670" expanded="true" signature="12006:12051" placeholder="INSERT INTO Warsztat_uczestnik..." />
+            <marker date="1453459029670" expanded="true" signature="12075:12120" placeholder="INSERT INTO Warsztat_uczestnik..." />
+            <marker date="1453459029670" expanded="true" signature="12151:12194" placeholder="INSERT INTO Warsztat_uczestnik..." />
+            <marker date="1453459029670" expanded="true" signature="12218:12259" placeholder="INSERT INTO Rezerwacje_dni..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/a.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.13017751">
+          <caret line="5" column="12" selection-start-line="5" selection-start-column="12" selection-end-line="5" selection-end-column="12" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/JavaTcpClient.iml" filepath="$PROJECT_DIR$/JavaTcpClient.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../JavaTcpServer/JavaTcpServer.iml" filepath="$PROJECT_DIR$/../JavaTcpServer/JavaTcpServer.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../JavaUdpClient/JavaUdpClient.iml" filepath="$PROJECT_DIR$/../JavaUdpClient/JavaUdpClient.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../JavaUdpServer/JavaUdpServer.iml" filepath="$PROJECT_DIR$/../JavaUdpServer/JavaUdpServer.iml" />
+    </modules>
+  </component>
+</project>

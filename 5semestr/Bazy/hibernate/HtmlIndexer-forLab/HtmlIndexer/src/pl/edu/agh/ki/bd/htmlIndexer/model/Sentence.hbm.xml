@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE hibernate-mapping PUBLIC
+        "-//Hibernate/Hibernate Mapping DTD 3.0//EN"
+        "http://hibernate.sourceforge.net/hibernate-mapping-3.0.dtd">
+ 
+<hibernate-mapping package="pl.edu.agh.ki.bd.htmlIndexer.model">
+ 
+    <class name="Sentence">
+        <id name="id">
+                <generator class="native"/>
+        </id>
+        <list name="words" table="word_sen" cascade="save-update" fetch="select" lazy="false">
+            <key column="id"/>
+            <list-index column="column_name"/>
+            <many-to-many column="idword" class="Word" />
+        </list>
+        <many-to-one name="URLs" class="ProccededURL"
+                     column="URls" not-null="true"/>
+    </class>
+    <class name="Word">
+        <id name="idword" >
+            <generator class="native" />
+
+        </id>
+
+        <property name="content" type="text"/>
+
+        <set name="sentences" table="word_sen" inverse="true" fetch="select">
+            <key column="idword"/>
+            <many-to-many column="id" class="Sentence" />
+        </set>
+    </class>
+    <class name="ProccededURL">
+        <id name="idURL" >
+                <generator class="native" />
+
+        </id>
+
+        <property name="datenow" type="text"/>
+        <property name="URLs" type="text"/>
+    </class>
+
+
+
+
+</hibernate-mapping>
+
+
+
+
+

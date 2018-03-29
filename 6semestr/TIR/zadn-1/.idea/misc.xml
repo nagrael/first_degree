@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_1_8" default="true" project-jdk-name="1.8" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/out" />
+  </component>
+  <component name="SbtLocalSettings">
+    <option name="modificationStamps">
+      <map>
+        <entry key="$USER_HOME$/Desktop/simplifier_combinator" value="1418557356000" />
+        <entry key="$PROJECT_DIR$/../../5semestr/Kompilatory/New folder/Hamuda/simplifier_combinator" value="1418557356000" />
+        <entry key="$PROJECT_DIR$/../../5semestr/Kompilatory/New folder/llampart-tk_lab05-67cbdf59ee64" value="1484493392000" />
+        <entry key="$PROJECT_DIR$/../../../scala/sudoku" value="1453200132387" />
+      </map>
+    </option>
+    <option name="externalProjectsViewState">
+      <projects_view />
+    </option>
+  </component>
+</project>

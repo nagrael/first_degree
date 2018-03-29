@@ -1,0 +1,136 @@
+1:
+Mutation(probability=0.3, evol_probability=0.5)
+clausules_nr = 100
+max_clausule_length = 3
+number_of_variables = 88
+
+minimal_energy = lambda: 60
+reproduction_minimum = lambda: 75
+migration_minimum = lambda: 100
+newborn_energy = lambda: 65
+transferred_energy = lambda: 25
+
+
+2:
+Mutation(probability=0.3, evol_probability=0.5)
+clausules_nr = 100
+max_clausule_length = 4
+number_of_variables = 88
+
+minimal_energy = lambda: 60
+reproduction_minimum = lambda: 75
+migration_minimum = lambda: 100
+newborn_energy = lambda: 65
+transferred_energy = lambda: 25
+
+
+3:
+Mutation(probability=0.3, evol_probability=0.5)
+clausules_nr = 100
+max_clausule_length = 3
+number_of_variables = 88
+
+minimal_energy = lambda: 80
+reproduction_minimum = lambda: 110
+migration_minimum = lambda: 130
+newborn_energy = lambda: 100
+transferred_energy = lambda: 25
+
+4:
+Mutation(probability=0.1, evol_probability=0.3)
+clausules_nr = 100
+max_clausule_length = 3
+number_of_variables = 88
+
+minimal_energy = lambda: 80
+reproduction_minimum = lambda: 110
+migration_minimum = lambda: 130
+newborn_energy = lambda: 100
+transferred_energy = lambda: 25
+
+5:
+Mutation(probability=0.5, evol_probability=0.5)
+clausules_nr = 80
+max_clausule_length = 3
+number_of_variables = 14
+
+minimal_energy = lambda: 80
+reproduction_minimum = lambda: 110
+migration_minimum = lambda: 130
+newborn_energy = lambda: 100
+transferred_energy = lambda: 25
+
+6:
+Mutation(probability=0.1, evol_probability=0.1)
+clausules_nr = 100
+max_clausule_length = 3
+number_of_variables = 100
+
+minimal_energy = lambda: 50
+reproduction_minimum = lambda: 110
+migration_minimum = lambda: 100
+newborn_energy = lambda: 80
+transferred_energy = lambda: 40
+
+7:
+Mutation(probability=0.1, evol_probability=0.2)
+clausules_nr = 100
+max_clausule_length = 3
+number_of_variables = 25
+
+minimal_energy = lambda: 50
+reproduction_minimum = lambda: 110
+migration_minimum = lambda: 100
+newborn_energy = lambda: 80
+transferred_energy = lambda: 40
+
+
+8:
+Mutation(probability=0.2, evol_probability=0.2)
+clausules_nr = 140
+max_clausule_length = 4
+number_of_variables = 55
+
+minimal_energy = lambda: 20
+reproduction_minimum = lambda: 110
+migration_minimum = lambda: 130
+newborn_energy = lambda: 100
+transferred_energy = lambda: 30
+
+9:
+Mutation(probability=0.5, evol_probability=0.7)
+clausules_nr = 140
+max_clausule_length = 4
+number_of_variables = 55
+
+minimal_energy = lambda: 20
+reproduction_minimum = lambda: 110
+migration_minimum = lambda: 130
+newborn_energy = lambda: 100
+transferred_energy = lambda: 30
+
+
+10:
+Mutation(probability=0.5, evol_probability=0.7)
+clausules_nr = 100
+max_clausule_length = 3
+number_of_variables = 88
+
+minimal_energy = lambda: 20
+reproduction_minimum = lambda: 110
+migration_minimum = lambda: 130
+newborn_energy = lambda: 100
+transferred_energy = lambda: 30
+
+11:
+Mutation(probability=0.5, evol_probability=0.7)
+clausules_nr = 100
+max_clausule_length = 3
+number_of_variables = 10
+
+minimal_energy = lambda: 20
+reproduction_minimum = lambda: 110
+migration_minimum = lambda: 130
+newborn_energy = lambda: 100
+transferred_energy = lambda: 30
+

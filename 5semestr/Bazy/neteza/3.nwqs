@@ -1,0 +1,7 @@
+<QuerySet>
+  <Query IsView="False" IsSP="False">
+    <SQL>SELECT * FROM PAYMENTREPORTDETAIL_ALL2
+WHERE ID BETWEEN 1000000 and 1000050</SQL>
+    <Name>Tab 1</Name>
+  </Query>
+</QuerySet>

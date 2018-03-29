@@ -1,0 +1,49 @@
+test:compile
+run
+test
+test:compile
+run
+test:compile
+run
+test:compile
+run
+test
+run
+test:compile
+test
+test:compile
+test
+test:compile
+test
+run
+test
+main
+run
+test
+run
+test
+run
+test
+run
+test
+run
+test
+run
+test
+run
+test
+clean
+test
+clean
+test
+clean
+test
+clean
+run
+run examples/gcd.spy
+run examples/fact.spy
+run examples/gcc/spy
+run exampels/gcc.spy
+run examples/gcd/spy
+run examples.gcd.spy
+run examples/gcd.spy

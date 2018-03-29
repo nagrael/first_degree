@@ -1,0 +1,37 @@
+all: tests
+
+tests:	create
+	./t_static
+	./t_dynamic_startload
+	./t_dynamic_dynload
+create:
+	make clean
+	make static
+	make dynamic_startload
+	make dynamic_dynload
+
+static: static_lib
+	gcc -Wall test_points.c -o t_static -L. libzad2.a
+
+dynamic_startload: dynamic_lib
+	gcc -Wall test_points.c -o t_dynamic_startload -L. -lzad2 -Wl,-rpath=`pwd`
+
+dynamic_dynload: dynamic_lib
+	gcc -Wall test_points.c -o t_dynamic_dynload -L. -ldl -D DYNAMIC
+
+static_lib:
+	gcc -Wall -c zad2.c
+	ar crs libzad2.a zad2.o
+
+dynamic_lib:
+	gcc -Wall -c -fPIC zad2.c
+	gcc -Wall -shared -fPIC -o libzad2.so zad2.o
+
+
+clean:
+	rm -f *.o
+	rm -f *.so
+	rm -f *.ar
+	rm -f tests_*
+	rm -f *.a
+

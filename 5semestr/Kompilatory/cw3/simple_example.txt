@@ -1,0 +1,17 @@
+
+int e = 0, f = 3, c = 5, d = 50, zero = 0;
+string s = "a";
+
+int add (int a, int b) {
+    return a + b;
+}
+
+int subtract (int a, int b) {
+    return a - b;
+}
+
+int multiply(int a, int b){
+    return a * b;
+}
+
+

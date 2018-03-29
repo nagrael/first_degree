@@ -1,0 +1,56 @@
+||RECORD length: 4	 RECORD number: 250||
+Sort using library functions
+| user	0.000000s
+| sys	1.490713s
+Sort using system functions
+| user	0.005932s
+| sys	0.023725s
+||RECORD length: 4	 RECORD number: 300||
+Sort using library functions
+| user	0.007956s
+| sys	0.871869s
+Sort using system functions
+| user	0.001993s
+| sys	0.529530s
+||RECORD length: 512	 RECORD number: 240||
+Sort using library functions
+| user	0.000579s
+| sys	1.768274s
+Sort using system functions
+| user	0.002559s
+| sys	2.253384s
+||RECORD length: 512	 RECORD number: 290||
+Sort using library functions
+| user	0.000409s
+| sys	2.311320s
+Sort using system functions
+| user	0.000000s
+| sys	2.986294s
+||RECORD length: 4096	 RECORD number: 230||
+Sort using library functions
+| user	0.000000s
+| sys	2.050801s
+Sort using system functions
+| user	0.000831s
+| sys	2.115254s
+||RECORD length: 4096	 RECORD number: 280||
+Sort using library functions
+| user	0.018141s
+| sys	0.710765s
+Sort using system functions
+| user	0.009098s
+| sys	3.284351s
+||RECORD length: 8192	 RECORD number: 220||
+Sort using library functions
+| user	0.038465s
+| sys	0.136558s
+Sort using system functions
+| user	0.001581s
+| sys	0.041902s
+||RECORD length: 8192	 RECORD number: 270||
+Sort using library functions
+| user	0.000000s
+| sys	3.187977s
+Sort using system functions
+| user	0.014074s
+| sys	2.137219s

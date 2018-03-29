@@ -1,0 +1,14 @@
+static:
+	gcc -Wall -c zad1.c
+	ar crs libzad1.a zad1.o
+
+dynamic
+	gcc -Wall -c -fPIC zad1.c
+	gcc -Wall -shared -fPIC -o libzad1.so zad1.o
+
+clean:
+	rm -f *.o
+	rm -f *.so
+	rm -f *.ar
+	rm -f tests_*
+	rm -f *.a

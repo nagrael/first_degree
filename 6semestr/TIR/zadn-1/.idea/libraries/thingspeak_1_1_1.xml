@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="thingspeak-1.1.1">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/thingspeak-java-master/dist/thingspeak-1.1.1.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

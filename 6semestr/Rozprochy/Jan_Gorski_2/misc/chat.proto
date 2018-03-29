@@ -1,0 +1,21 @@
+option java_package = "pl.edu.agh.dsrg.sr.chat.protos";
+option java_outer_classname = "ChatOperationProtos";
+
+message ChatAction {
+    required ActionType action = 1;
+    required string channel = 2;
+    required string nickname = 3;
+
+    enum ActionType{
+        JOIN = 0;
+        LEAVE = 1;
+    }
+}
+
+message ChatState {
+    repeated ChatAction state = 1;
+}
+
+message ChatMessage {
+    required string message = 1;
+}
